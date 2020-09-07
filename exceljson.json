@@ -318,6 +318,18 @@
         "": ""
     },
     {
+        "Icao": "SBEG",
+        "Pais": "Brasil",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "SBSV",
+        "Pais": "Brasil",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "": ""
+    },
+    {
         "Icao": "LBBG",
         "Pais": "Bulg\u00e1ria\u00a0",
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/22px-Flag_of_Bulgaria.svg.png",
@@ -369,7 +381,7 @@
         "Icao": "CYWG",
         "Pais": "Canad\u00e1",
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/22px-Flag_of_Canada_%28Pantone%29.svg.png",
-        "": ""
+        "": "]"
     },
     {
         "Icao": "CYXU",
@@ -381,7 +393,7 @@
         "Icao": "CYHZ",
         "Pais": "Canad\u00e1",
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/22px-Flag_of_Canada_%28Pantone%29.svg.png",
-        "": "]"
+        "": ""
     },
     {
         "Icao": "CYMM",
