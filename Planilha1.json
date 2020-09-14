@@ -42,7 +42,7 @@
     {
         "LiveryId": "284be6de-0020-453e-a08b-bb8f8d7f5ae1",
         "LiveryName": "Air Canada Express",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "c995fa38-1c38-444b-a45d-af1eccef99bd",
@@ -67,7 +67,7 @@
     {
         "LiveryId": "617d4033-1628-41c5-b451-ae9bc1c8c0b6",
         "LiveryName": "J-Air",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JAL.png"
     },
     {
         "LiveryId": "902a8ed7-564e-414a-bad8-2ea847279c5c",
@@ -312,7 +312,7 @@
     {
         "LiveryId": "b59c6ae9-803e-4d5b-afff-e4fec4a9cc6d",
         "LiveryName": "Copa Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CMP.png"
     },
     {
         "LiveryId": "25ab2650-9f1f-4981-8e32-a3fe891ea8d3",
@@ -437,7 +437,7 @@
     {
         "LiveryId": "b3e6f1e4-91e0-4944-b95f-e824de7df9fe",
         "LiveryName": "LOT Polish Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LOT.png"
     },
     {
         "LiveryId": "529073ab-a627-49e4-a9bd-82d24818ea62",
@@ -522,7 +522,7 @@
     {
         "LiveryId": "1b9586bd-c0ca-4bc3-9e1b-9664f58e396c",
         "LiveryName": "Qatar Cargo",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/QTR.png"
     },
     {
         "LiveryId": "11db298c-b35f-4463-99ab-8c854dc35b63",
@@ -632,7 +632,7 @@
     {
         "LiveryId": "124af2c6-427f-4d51-bbdf-6c3f1e19cf60",
         "LiveryName": "JetBlue",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
     },
     {
         "LiveryId": "912ccf1d-558d-4870-b616-3ce29e8cfa1a",
@@ -642,7 +642,7 @@
     {
         "LiveryId": "71afacfd-db50-4e1e-95f2-4b88393b5217",
         "LiveryName": "Air New Zealand",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANZ.png"
     },
     {
         "LiveryId": "d5eb26d0-46f3-458f-aa8d-0b212c4338b3",
@@ -692,7 +692,7 @@
     {
         "LiveryId": "cd1dadae-70a7-45f4-80b0-c166223ed1f3",
         "LiveryName": "Wizz Air",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WZZ.png"
     },
     {
         "LiveryId": "8944b457-4636-4359-b72b-e9f9999a06e6",
@@ -782,7 +782,7 @@
     {
         "LiveryId": "c1c50f20-1475-4df3-81f9-ab224b807701",
         "LiveryName": "Aegean Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AEE.png"
     },
     {
         "LiveryId": "818dfcf1-a4af-489c-902c-d8fd9f720e22",
@@ -792,7 +792,7 @@
     {
         "LiveryId": "f9474e48-f651-4d39-ab5e-4806339afd5c",
         "LiveryName": "Avianca",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AVA.png"
     },
     {
         "LiveryId": "29947d52-a32a-4675-b04d-878fa2ac5476",
@@ -822,7 +822,7 @@
     {
         "LiveryId": "b5e73279-8985-41b3-b812-7585e76c67b2",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "88a4db7e-9879-43f3-ad28-a0cccb139424",
@@ -897,7 +897,7 @@
     {
         "LiveryId": "51dd05b8-85c7-496b-96f6-649a056ff976",
         "LiveryName": "LOT Polish Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LOT.png"
     },
     {
         "LiveryId": "6421dce4-377f-4ba7-97ea-d838aff83813",
@@ -1002,7 +1002,7 @@
     {
         "LiveryId": "06ea670c-e687-4602-9f8a-1fbd298c47f9",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "dfafc610-fbb5-45f3-8c50-c732bd59a9c9",
@@ -1072,7 +1072,7 @@
     {
         "LiveryId": "bc9e7135-37d4-43f1-a435-9fa8ff6a6874",
         "LiveryName": "Air Canada Rouge",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "6d1982b3-36c6-406f-a5bc-2f6c5a581ba4",
@@ -1092,7 +1092,7 @@
     {
         "LiveryId": "0ccffb5e-1c03-46ff-8757-df3835a2b67c",
         "LiveryName": "Swiss",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SWR.png"
     },
     {
         "LiveryId": "8a0a29ed-55b3-47eb-82c2-d1c30c5effe3",
@@ -1197,12 +1197,12 @@
     {
         "LiveryId": "d47f2df4-2fcb-4d4a-9286-12ae8e923177",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "9b511f5a-a981-48a8-8b42-a23cda651e0b",
         "LiveryName": "Air India",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
     },
     {
         "LiveryId": "fe0c16ec-1fe5-46fe-a056-9643773fedd0",
@@ -1267,7 +1267,7 @@
     {
         "LiveryId": "f36ceb00-cd6c-46a9-9dc7-30721668a11f",
         "LiveryName": "Air India",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
     },
     {
         "LiveryId": "9627685d-e466-4645-806c-4366d43d78f6",
@@ -1287,7 +1287,7 @@
     {
         "LiveryId": "fff01f28-c366-446d-a969-5e5ee267f5f6",
         "LiveryName": "ANA",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANA.png"
     },
     {
         "LiveryId": "98ae73a4-faf5-4e91-b27a-c0ce45fc26a2",
@@ -1322,7 +1322,7 @@
     {
         "LiveryId": "ecbb8067-e81f-4815-9039-7a68ae8ca196",
         "LiveryName": "Swiss",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SWR.png"
     },
     {
         "LiveryId": "8b39cf0a-3c39-4894-9949-709e28ae3c1f",
@@ -1382,7 +1382,7 @@
     {
         "LiveryId": "80fc182b-5e4c-4fd7-9103-7221a72091b5",
         "LiveryName": "JetBlue",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
     },
     {
         "LiveryId": "061ee4be-7a62-4eee-8096-da4a0941ba0b",
@@ -1397,12 +1397,12 @@
     {
         "LiveryId": "66666808-5c81-441b-89f1-d132889b2041",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "bd5ad51e-a753-4203-8eef-502da9f431e5",
         "LiveryName": "Wizz Air",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WZZ.png"
     },
     {
         "LiveryId": "a705c138-2ddd-4cf2-8f67-6c7f742eb09c",
@@ -1542,7 +1542,7 @@
     {
         "LiveryId": "48030882-99e0-4572-b3d6-ed1555cc90e7",
         "LiveryName": "ANA",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANA.png"
     },
     {
         "LiveryId": "1d5a71b3-1c9b-40fd-bd41-e82a53cc3166",
@@ -1717,12 +1717,12 @@
     {
         "LiveryId": "e992fb45-c10b-4908-8a6f-cb1b3bb56806",
         "LiveryName": "Air India",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
     },
     {
         "LiveryId": "a6b6dfb8-1a54-45d3-8a9a-ea336e49add0",
         "LiveryName": "Avianca",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AVA.png"
     },
     {
         "LiveryId": "3d7f402d-8272-47b1-9c16-f012b4e0db50",
@@ -1757,7 +1757,7 @@
     {
         "LiveryId": "95e854f5-598e-48a3-a118-2105f76ebc97",
         "LiveryName": "LOT Polish Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LOT.png"
     },
     {
         "LiveryId": "39295c5c-eb18-4bae-acbc-27f3d708c67e",
@@ -1957,7 +1957,7 @@
     {
         "LiveryId": "778a1b8a-35ac-43a3-8556-2d7bf78c062a",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "feec78d6-5eb5-4569-810c-89d35eddf246",
@@ -2122,12 +2122,12 @@
     {
         "LiveryId": "b7606267-d23f-4c32-ac24-7682c80f89b8",
         "LiveryName": "Air Canada Jazz",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "ba0ccb32-2d36-440d-860a-8da77f2df134",
         "LiveryName": "ANA",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANA.png"
     },
     {
         "LiveryId": "6ef12bac-2400-4df7-bd7c-29bf0285e9a8",
@@ -2277,7 +2277,7 @@
     {
         "LiveryId": "dcf7a0fe-88a3-485b-ada8-23b171deed89",
         "LiveryName": "Cathay Pacific",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CPA.png"
     },
     {
         "LiveryId": "74e4c235-9e91-4ffb-8cab-212028b1527a",
@@ -2507,7 +2507,7 @@
     {
         "LiveryId": "d13fb02f-80d5-4574-8296-2d921c3b1986",
         "LiveryName": "Cathay Pacific",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CPA.png"
     },
     {
         "LiveryId": "bbd9aceb-63dd-4acb-97e4-579156d02a7f",
@@ -2542,12 +2542,12 @@
     {
         "LiveryId": "f40bd998-f933-4cb4-ac02-14fe774cd682",
         "LiveryName": "Air India",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
     },
     {
         "LiveryId": "03b2e31d-2be0-4b96-9058-0e7c920de722",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "8874908d-e03a-4f39-aedd-2792103dd1f7",
@@ -2562,7 +2562,7 @@
     {
         "LiveryId": "821016ad-cbeb-44c7-9a56-823732c71498",
         "LiveryName": "Air New Zealand",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANZ.png"
     },
     {
         "LiveryId": "27d9aebc-a139-4671-9e0f-a8407abe8387",
@@ -2672,22 +2672,22 @@
     {
         "LiveryId": "df597aaf-456c-4878-9d84-45201f2aae74",
         "LiveryName": "Swiss",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SWR.png"
     },
     {
         "LiveryId": "359bc468-62d0-43a5-9084-b8b2fd451267",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "a8e1f6d4-fb79-4fc3-8e44-53a26b251e07",
         "LiveryName": "Air New Zealand - All Blacks",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANZ.png"
     },
     {
         "LiveryId": "4b041937-0596-47f7-ba6e-664e6502478a",
         "LiveryName": "Air New Zealand",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANZ.png"
     },
     {
         "LiveryId": "39d0ea03-5bf5-4ab0-8651-37bfe1e07205",
@@ -2702,7 +2702,7 @@
     {
         "LiveryId": "e8b31d95-5717-4935-a353-576484bffeb0",
         "LiveryName": "Cathay Pacific",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CPA.png"
     },
     {
         "LiveryId": "7ea21653-200a-4b3d-b1e3-c986cca14929",
@@ -2767,7 +2767,7 @@
     {
         "LiveryId": "bec0ca55-be27-4dfd-b894-59c664876fa8",
         "LiveryName": "Cathay Pacific - 2015",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CPA.png"
     },
     {
         "LiveryId": "33458643-bc06-4423-ba37-5cbee16a1b6b",
@@ -2777,7 +2777,7 @@
     {
         "LiveryId": "407757d7-5a8b-4dd8-859a-f51e9801c87a",
         "LiveryName": "Air New Zealand",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANZ.png"
     },
     {
         "LiveryId": "d8935bb9-8b90-4f2f-9ffc-ac38747c0f5b",
@@ -2847,12 +2847,12 @@
     {
         "LiveryId": "6bb2a9d2-2219-4251-8569-a8c8006d9140",
         "LiveryName": "Cathay Pacific",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CPA.png"
     },
     {
         "LiveryId": "b6621603-2884-4611-b105-1a3db20379b4",
         "LiveryName": "Swiss",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SWR.png"
     },
     {
         "LiveryId": "0a2d4aaa-79d8-4df2-8aa0-e12dc02f2594",
@@ -2867,7 +2867,7 @@
     {
         "LiveryId": "1f07d7de-e733-4287-a44d-021e3ba29f8f",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "1ae8c721-b906-4a34-8dba-a81106258047",
@@ -2942,7 +2942,7 @@
     {
         "LiveryId": "4ddfdfe0-4777-47f7-bcde-65d8d39cfe7b",
         "LiveryName": "ANA",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANA.png"
     },
     {
         "LiveryId": "e58cd012-3e91-4f51-87ed-d2523584b16a",
@@ -2972,7 +2972,7 @@
     {
         "LiveryId": "f100eb35-a2c2-48a5-8e67-822edaf88355",
         "LiveryName": "Etihad Airways",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ETD.png"
     },
     {
         "LiveryId": "b6974a9a-dba3-40b6-b3cc-0f987416ec1e",
@@ -3007,7 +3007,7 @@
     {
         "LiveryId": "490646cd-ae2b-4771-8086-507785d0f640",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "f4614fc0-0128-4a6e-8226-d5f53f74f456",
@@ -3122,7 +3122,7 @@
     {
         "LiveryId": "97b1b5ef-0db9-4bca-9bb5-5970ebbb83b1",
         "LiveryName": "JetBlue",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
     },
     {
         "LiveryId": "609a665a-1d0e-4e3e-9af8-19042591d2f7",
@@ -3192,7 +3192,7 @@
     {
         "LiveryId": "7ceb8d50-446a-4159-b54c-305348caad60",
         "LiveryName": "Swiss",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SWR.png"
     },
     {
         "LiveryId": "68ec63be-5e72-4a22-a0a2-c06fde412b81",
@@ -3277,7 +3277,7 @@
     {
         "LiveryId": "5af2afed-51a9-45de-a442-709f949a5443",
         "LiveryName": "Air Canada",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
     },
     {
         "LiveryId": "e49176ae-7db4-4408-823b-9ec9b3eaf9a3",
@@ -3537,7 +3537,7 @@
     {
         "LiveryId": "d848d1bb-21fc-438a-b718-92b20b7f3e74",
         "LiveryName": "Avianca",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AVA.png"
     },
     {
         "LiveryId": "c35e008f-dc07-43d6-ac07-515ea9a39271",
