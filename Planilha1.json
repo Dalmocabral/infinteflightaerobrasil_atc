@@ -57,7 +57,7 @@
     {
         "LiveryId": "552a0644-67ab-4265-b731-d6582205cbb2",
         "LiveryName": "Belavia Belarusian Airlines",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/BRU.png"
     },
     {
         "LiveryId": "37e662c3-4750-4a66-b510-5e3bb136ac54",
@@ -87,12 +87,12 @@
     {
         "LiveryId": "11c67791-d66a-48a4-ad5a-48dac60936e0",
         "LiveryName": "South African Express",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EXY.png"
     },
     {
         "LiveryId": "92fb0822-f2f9-480d-a94b-c071a686a441",
         "LiveryName": "United Express - Old",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/UPS.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UAL.png"
     },
     {
         "LiveryId": "b23e7ac2-9cda-44bc-a73a-5bb761693250",
@@ -117,7 +117,7 @@
     {
         "LiveryId": "eecb55e9-7afb-4511-9efa-26cb3f1858f1",
         "LiveryName": "Air China",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
     },
     {
         "LiveryId": "da881bad-4b65-48c7-bf7e-afcffccec676",
@@ -142,7 +142,7 @@
     {
         "LiveryId": "8fc7b30d-a63a-4a08-8dd0-15e9666b2801",
         "LiveryName": "Korean",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KAL.png"
     },
     {
         "LiveryId": "13eda18c-f8ce-45b3-8a46-10e188b34618",
@@ -482,7 +482,7 @@
     {
         "LiveryId": "59644661-7b64-444c-8ce6-4d7dc6c10094",
         "LiveryName": "Westjet",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WJA.png"
     },
     {
         "LiveryId": "6cd046f4-ca62-4450-8b51-6cb68dc2f5a0",
@@ -502,7 +502,7 @@
     {
         "LiveryId": "833cd0f1-5b9e-4af9-bc5c-b4313164c275",
         "LiveryName": "AeroLogic",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/BOX.png"
     },
     {
         "LiveryId": "5ba8551e-e8bc-4021-a180-76c6a3cec21f",
@@ -812,7 +812,7 @@
     {
         "LiveryId": "c8cd650a-c96b-40ba-a8d5-6fa28a4fd1cc",
         "LiveryName": "Eurowings",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EWG.png"
     },
     {
         "LiveryId": "f2903494-41e5-4d0d-acb4-88001fb6a8e9",
@@ -967,7 +967,7 @@
     {
         "LiveryId": "c0eee75c-a903-4d24-a5be-a0c3f6f60d56",
         "LiveryName": "South African Express",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EXY.png"
     },
     {
         "LiveryId": "47be6bc0-9b26-42da-8278-954cb5c7d417",
@@ -1007,7 +1007,7 @@
     {
         "LiveryId": "dfafc610-fbb5-45f3-8c50-c732bd59a9c9",
         "LiveryName": "Air China",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
     },
     {
         "LiveryId": "e9b2f137-23ce-45f6-9d46-8d2328c2b347",
@@ -1107,7 +1107,7 @@
     {
         "LiveryId": "9f43e353-f3f3-40a7-a0d4-e2f5302b596e",
         "LiveryName": "Eurowings",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EWG.png"
     },
     {
         "LiveryId": "743b07cf-ecbd-44de-b153-d782bfe16999",
@@ -1847,7 +1847,7 @@
     {
         "LiveryId": "d5abf376-3533-42cc-86c4-8f3710e0994f",
         "LiveryName": "WestJet",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WJA.png"
     },
     {
         "LiveryId": "ed33652c-811b-4128-a648-185c6f8e213f",
@@ -1887,7 +1887,7 @@
     {
         "LiveryId": "b9ce2d2d-41ad-4d73-869b-70104d468c77",
         "LiveryName": "Air China",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
     },
     {
         "LiveryId": "030113e9-c9b9-446f-9ac9-88d20f2487a8",
@@ -2177,7 +2177,7 @@
     {
         "LiveryId": "860411bc-b75a-4c2e-8582-839b0069e9e6",
         "LiveryName": "WestJet Encore",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WJA.png"
     },
     {
         "LiveryId": "c5892f6c-cb8a-45e3-a088-718921dda8d6",
@@ -2552,7 +2552,7 @@
     {
         "LiveryId": "8874908d-e03a-4f39-aedd-2792103dd1f7",
         "LiveryName": "Air China",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
     },
     {
         "LiveryId": "f4c8c41b-0e39-4c56-a984-c630f99a2a96",
@@ -3307,7 +3307,7 @@
     {
         "LiveryId": "9c8a3c14-a2f3-437a-b57f-2dd0d383a1a6",
         "LiveryName": "Eurowings",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EWG.png"
     },
     {
         "LiveryId": "def436d9-3c0c-4e9e-8dd0-9087cd978dba",
