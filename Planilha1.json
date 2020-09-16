@@ -47,7 +47,7 @@
     {
         "LiveryId": "c995fa38-1c38-444b-a45d-af1eccef99bd",
         "LiveryName": "American Eagle",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
     },
     {
         "LiveryId": "4f17ca20-2ff5-415b-bba0-e5b6d844d78f",
@@ -367,7 +367,7 @@
     {
         "LiveryId": "8c6741da-8e7d-4fff-8a5a-c0c1803c3a78",
         "LiveryName": "Transavia",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TRA.png"
     },
     {
         "LiveryId": "bf8d45a0-878a-4a9b-9c2c-20c701ed652b",
@@ -3442,7 +3442,7 @@
     {
         "LiveryId": "2dda19dd-4714-4139-96f1-bcba85124dc1",
         "LiveryName": "Transavia",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TRA.png"
     },
     {
         "LiveryId": "fc4ce013-23fa-4fc1-ba05-1c1766dd4a6e",
