@@ -605,6 +605,16 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
     },
     {
+        "LiveryId": "233594d9-2f49-490a-b3de-3db4ab97b1d5",
+        "LiveryName": "American Airlines",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
+    },
+    {
+        "LiveryId": "7da07d85-ac0b-42a7-a94d-91bb95bb23c2",
+        "LiveryName": "American Airlines",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
+    },
+    {
         "LiveryId": "029945bc-27a3-4bd2-831a-f593a809f918",
         "LiveryName": "American Airlines - 2013",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
@@ -731,6 +741,11 @@
     },
     {
         "LiveryId": "2a5ebc6c-8246-4176-a2b1-5399dd1537de",
+        "LiveryName": "Austrian",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AUA.png"
+    },
+    {
+        "LiveryId": "7f1760d2-9223-4261-b73e-d48b9bad61ce",
         "LiveryName": "Austrian",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AUA.png"
     },
@@ -2135,6 +2150,11 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/KQA.png"
     },
     {
+        "LiveryId": "4b791971-49ce-4e11-ae5d-90f09ffd3993",
+        "LiveryName": "Kenya Airways",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KQA.png"
+    },
+    {
         "LiveryId": "88b2b8b8-1b26-4501-ac93-0b0719d9ce1a",
         "LiveryName": "KLM",
         "Logo": "https://cdn.radarbox.com/airlines/sq/KLM.png"
@@ -2538,6 +2558,11 @@
         "LiveryId": "5df51346-e0d3-4619-abdc-d3da6c120344",
         "LiveryName": "Nordica",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
+        "LiveryId": "9c9f2445-778c-45c1-9f4f-626bdf02d8b4",
+        "LiveryName": "Nordwind Airlines",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NWS.png"
     },
     {
         "LiveryId": "310e269e-1d37-42b2-9bf5-ab3224445d23",
@@ -3185,6 +3210,11 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/DTA.png"
     },
     {
+        "LiveryId": "d0d20cd8-de39-461d-8cea-7d599921cd77",
+        "LiveryName": "TAAG Angola Airlines",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/DTA.png"
+    },
+    {
         "LiveryId": "8a0a29ed-55b3-47eb-82c2-d1c30c5effe3",
         "LiveryName": "TAM",
         "Logo": "https://cdn.radarbox.com/airlines/sq/LAN.png"
@@ -3405,6 +3435,11 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AUI.png"
     },
     {
+        "LiveryId": "462d706a-fa0c-45cf-b94e-68a4d94dd805",
+        "LiveryName": "Ukraine International Airlines",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
         "LiveryId": "c9a4f454-bb98-4b25-ad09-bc0df3ad16b2",
         "LiveryName": "United",
         "Logo": "https://cdn.radarbox.com/airlines/sq/UAL.png"
@@ -3562,6 +3597,11 @@
     {
         "LiveryId": "b23e7ac2-9cda-44bc-a73a-5bb761693250",
         "LiveryName": "UTair Aviation",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
+        "LiveryId": "99cb6665-fc96-4b91-8570-052747c7676e",
+        "LiveryName": "Varig",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
