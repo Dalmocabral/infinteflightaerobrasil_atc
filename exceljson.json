@@ -2352,6 +2352,14 @@
         "": ""
     },
     {
+        "Icao": "LFPG",
+        "Pais": "Fran\u00e7a",
+        "Latitude": 49.01,
+        "Longitude": 2.548611,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
+        "": ""
+    },
+    {
         "Icao": "DGAA",
         "Pais": "Gana",
         "Latitude": "",
@@ -2794,8 +2802,8 @@
     {
         "Icao": "OKBK",
         "Pais": "Kuwait",
-        "Latitude": "",
-        "Longitude": "",
+        "Latitude": 29.226667,
+        "Longitude": 47.98,
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/22px-Flag_of_Kuwait.svg.png",
         "": ""
     },
@@ -3154,8 +3162,8 @@
     {
         "Icao": "SPJC",
         "Pais": "Peru",
-        "Latitude": "",
-        "Longitude": "",
+        "Latitude": -12.021944,
+        "Longitude": -77.114444,
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/22px-Flag_of_Peru.svg.png",
         "": ""
     },
