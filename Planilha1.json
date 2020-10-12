@@ -3758,5 +3758,10 @@
         "LiveryId": "4a67e1c7-7e1d-4f48-ba6b-24e30d3331a7",
         "LiveryName": "Zan Air",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
+        "LiveryId": "e258f6d4-4503-4dde-b25c-1fb9067061e2",
+        "LiveryName": "Kuwait Airways",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KAC.png"
     }
 ]
