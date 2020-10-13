@@ -3773,5 +3773,10 @@
         "LiveryId": "38fd7fe0-9ec3-4fda-94e8-f1d94cf2d01d",
         "LiveryName": "Air India",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
+    },
+    {
+        "LiveryId": "3f65a6dc-ff73-43ad-b9c5-a97d7aef09e1",
+        "LiveryName": "EVA Air",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EVA.png"
     }
 ]
