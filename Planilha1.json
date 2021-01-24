@@ -711,7 +711,7 @@
         "LiveryId": "8e83417a-f960-4300-8b85-c281bcf31b43",
         "LiveryName": "America West",
         "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://i.imgur.com/FhSUvoF.png"
     },
     {
         "LiveryId": "7da07d85-ac0b-42a7-a94d-91bb95bb23c2",
@@ -1593,7 +1593,7 @@
         "LiveryId": "a1ca5743-5046-4186-bf70-7564961dcf8d",
         "LiveryName": "EC Air",
         "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://i.imgur.com/kccYKvm.png"
     },
     {
         "LiveryId": "88cd6503-d375-493e-87e3-32fa4395b93b",
@@ -1606,6 +1606,12 @@
         "LiveryName": "Egypt Air Force",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
+        "LiveryId": "1d7f7721-6932-46a7-abdc-b74816da4ab0\t",
+        "LiveryName": "",
+        "Icao": "MSR",
+        "Logo": "https://i.imgur.com/iqG4hiD.png"
     },
     {
         "LiveryId": "46d3f77b-b8f9-4aa1-83e2-344d3ad55a34",
@@ -2810,13 +2816,13 @@
     {
         "LiveryId": "26592268-bb37-420b-b8d1-2133ab1f532f",
         "LiveryName": "La Compagnie",
-        "Icao": "",
+        "Icao": "DJT",
         "Logo": "https://cdn.radarbox.com/airlines/sq/DJT.png"
     },
     {
         "LiveryId": "7de4c9b1-647f-4c7e-94b8-badcbe152397",
         "LiveryName": "Ladeco",
-        "Icao": "",
+        "Icao": "LCO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
@@ -2841,7 +2847,7 @@
         "LiveryId": "586ff541-fd63-4d98-a89f-4b0cd755fb51",
         "LiveryName": "LAPA",
         "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://i.imgur.com/9cyXfss.png"
     },
     {
         "LiveryId": "e44843cc-dd66-473c-b40b-f0a45380e5f9",
@@ -3939,7 +3945,7 @@
         "LiveryId": "f833709f-35a5-471a-b9a0-cd7d6c0b299e",
         "LiveryName": "Sunday Airlines",
         "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://i.imgur.com/4AqX4zM.png"
     },
     {
         "LiveryId": "0ccffb5e-1c03-46ff-8757-df3835a2b67c",
@@ -4466,8 +4472,8 @@
     {
         "LiveryId": "b24f9920-3d37-4939-9dbe-65a127269e18",
         "LiveryName": "Uzbekistan Airways",
-        "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Icao": "UZB",
+        "Logo": "https://i.imgur.com/JWv5lVG.png"
     },
     {
         "LiveryId": "99cb6665-fc96-4b91-8570-052747c7676e",
