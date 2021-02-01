@@ -640,6 +640,14 @@
         "": ""
     },
     {
+        "Icao": "SBNF",
+        "Pais": "Brasil",
+        "Latitude": -26878611.0,
+        "Longitude": -48650833.0,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "": ""
+    },
+    {
         "Icao": "LBSF",
         "Pais": "Bulg\u00e1ria",
         "Latitude": "",
@@ -2168,6 +2176,86 @@
         "": ""
     },
     {
+        "Icao": "KFLG",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KGCN",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KHND",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KIFP",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KDVT",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KFFZ",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KIWA",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KPRC",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KRYN",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "KVGT",
+        "Pais": "Estados Unidos",
+        "Latitude": "",
+        "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
+        "": ""
+    },
+    {
         "Icao": "HAAB",
         "Pais": "Eti\u00f3pia",
         "Latitude": "",
@@ -2592,10 +2680,34 @@
         "": ""
     },
     {
+        "Icao": "OIIE",
+        "Pais": "Ir\u00e3",
+        "Latitude": 35.416111,
+        "Longitude": 51.15222,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "OIII",
+        "Pais": "Ir\u00e3",
+        "Latitude": 35689167.0,
+        "Longitude": 51313611.0,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png",
+        "": ""
+    },
+    {
         "Icao": "ORER",
         "Pais": "Iraque",
         "Latitude": "",
         "Longitude": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png",
+        "": ""
+    },
+    {
+        "Icao": "ORBI",
+        "Pais": "Iraque",
+        "Latitude": 33.2625,
+        "Longitude": 44.234444,
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png",
         "": ""
     },
@@ -3981,38 +4093,6 @@
         "Latitude": "",
         "Longitude": "",
         "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/22px-Flag_of_Vietnam.svg.png",
-        "": ""
-    },
-    {
-        "Icao": "SBNF",
-        "Pais": "Brasil",
-        "Latitude": -26878611.0,
-        "Longitude": -48650833.0,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
-        "": ""
-    },
-    {
-        "Icao": "OIIE",
-        "Pais": "Ir\u00e3",
-        "Latitude": 35.416111,
-        "Longitude": 51.15222,
-        "Bandeira": "",
-        "": ""
-    },
-    {
-        "Icao": "OIII",
-        "Pais": "Ir\u00e3",
-        "Latitude": 35689167.0,
-        "Longitude": 51313611.0,
-        "Bandeira": "",
-        "": ""
-    },
-    {
-        "Icao": "ORBI",
-        "Pais": "Iraque",
-        "Latitude": 33.2625,
-        "Longitude": 44.234444,
-        "Bandeira": "",
         "": ""
     }
 ]
