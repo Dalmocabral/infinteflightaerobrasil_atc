@@ -2,91 +2,91 @@
     {
         "LiveryId": "a1cc0a72-39a9-488a-80e1-ca3c6460673d",
         "LiveryName": "10 Air Tanker Carrier",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "5e9c9c43-e0bd-4a2c-8b2e-1bf37275c864",
         "LiveryName": "175th Wing Warfield ANG",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "5100dbb8-2e8f-439e-99d9-3682176334ff",
         "LiveryName": "188th Wing Fort Smith ANG",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "6a620115-6a36-480c-a006-30f7ecb2c35a",
         "LiveryName": "25th FS Osan AB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "e68b5101-a8e1-43da-9792-5481faa4a3f9",
         "LiveryName": "303rd FS Whiteman AFB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "ef8b0325-c962-4ec9-b5fd-5d4f2f234e01",
         "LiveryName": "343rd Wing Eielson AFB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "9f91e172-7f1e-4105-8cdf-69cca25667f9",
         "LiveryName": "354th FS Davis-Mothan AFB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "92745d61-6b14-4246-83be-7959be2a29ff",
         "LiveryName": "66th WS Nellis AFB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "a0ac5c37-54b0-416c-a022-9894f219cf22",
         "LiveryName": "75th FS Moody AFB",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "3fa84232-6e91-49a5-a2ee-47fa5cdc9497",
         "LiveryName": "AC-130",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "20bcdb6b-854f-44ee-addc-b30fb5acfe05",
         "LiveryName": "ACJ Livery 1",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "3390fa9c-61f7-4c10-97c4-d0f25a526dfd",
         "LiveryName": "ACJ Livery 2",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "b6481163-3cbf-4212-9616-0bf99b6ac3c3",
         "LiveryName": "ACJ Livery 3",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "268bcb25-0236-45e7-bc24-f5dd596381a7",
         "LiveryName": "ACJ Livery 4",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
         "LiveryId": "2ad3f632-b9ca-4510-b12f-3047be8383ef",
         "LiveryName": "ACJ Livery 5",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
@@ -224,7 +224,7 @@
     {
         "LiveryId": "f0b6bfd7-aa5e-4e41-a78d-09492ff40e04",
         "LiveryName": "Air Astana",
-        "Icao": "KZR",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/KZR.png"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "LiveryId": "405435a1-78f6-4cc7-972a-5589db10dd52",
         "LiveryName": "Cabo Verde",
-        "Icao": "TCV",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/TCV.png"
     },
     {
@@ -1608,8 +1608,8 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
-        "LiveryId": "1d7f7721-6932-46a7-abdc-b74816da4ab0",
-        "LiveryName": "Egypt Air",
+        "LiveryId": "1d7f7721-6932-46a7-abdc-b74816da4ab0\t",
+        "LiveryName": "",
         "Icao": "MSR",
         "Logo": "https://i.imgur.com/iqG4hiD.png"
     },
@@ -2841,12 +2841,12 @@
         "LiveryId": "b9a6c94f-a524-4239-a547-98bf7187f617",
         "LiveryName": "LAN Cargo",
         "Icao": "LAN",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/LCO.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LAN.png"
     },
     {
         "LiveryId": "586ff541-fd63-4d98-a89f-4b0cd755fb51",
         "LiveryName": "LAPA",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://i.imgur.com/9cyXfss.png"
     },
     {
@@ -3608,7 +3608,7 @@
     {
         "LiveryId": "ee7f99a8-abda-4231-a6be-9ff769c62099",
         "LiveryName": "Royal Nepal Airlines",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
     },
     {
@@ -3944,7 +3944,7 @@
     {
         "LiveryId": "f833709f-35a5-471a-b9a0-cd7d6c0b299e",
         "LiveryName": "Sunday Airlines",
-        "Icao": "NO",
+        "Icao": "",
         "Logo": "https://i.imgur.com/4AqX4zM.png"
     },
     {
@@ -4178,7 +4178,7 @@
     {
         "LiveryId": "672f8652-df76-4f90-afc0-6cc6ad205bac",
         "LiveryName": "TUI",
-        "Icao": "TOM",
+        "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/TOM.png"
     },
     {
@@ -4666,5 +4666,89 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+    },
+    {
+        "LiveryId": "5dca5ae5-7ba2-48f4-adee-f6450b7e38fb",
+        "LiveryName": "Aeromexico",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
+    },
+    {
+        "LiveryId": "f48b27f6-9093-413f-a4ed-dca681750130",
+        "LiveryName": "Finnair",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/FIN.png"
+    },
+    {
+        "LiveryId": "8bcc6ce1-2fec-4fe5-8411-f0540a676e78",
+        "LiveryName": "Dutchbird",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png "
+    },
+    {
+        "LiveryId": "b0e04dee-d743-441b-93d2-78ed694cc4cc",
+        "LiveryName": "US Airways",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "8944b457-4636-4359-b72b-e9f9999a06e6",
+        "LiveryName": "Easyjet",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EZY.png"
+    },
+    {
+        "LiveryId": "dcdcfedc-8c9d-408b-9f5d-2f0632eeb2c8",
+        "LiveryName": "JetSMART",
+        "Icao": "",
+        "Logo": "https://i.imgur.com/hTgKmGI.png"
+    },
+    {
+        "LiveryId": "a6e5e0bf-2f0f-49ac-8076-5843d1ea68e7",
+        "LiveryName": "Delta",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/DAL.png"
+    },
+    {
+        "LiveryId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
+        "LiveryName": "Air India",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
+    },
+    {
+        "LiveryId": "4b334193-8890-4df0-b91c-a4357f81fd3a",
+        "LiveryName": "SKY Airline",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SKX.png"
+    },
+    {
+        "LiveryId": "1b8bef4d-85d4-45f8-8a79-16b359fcebfa",
+        "LiveryName": "Air Zimbabwe",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AZW.png"
+    },
+    {
+        "LiveryId": "7458968e-86a2-4fc8-98c2-f8438204e08b",
+        "LiveryName": "Turkish",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/THY.png"
+    },
+    {
+        "LiveryId": "e7c74edf-b171-4966-b8f1-1e4743a0755f",
+        "LiveryName": "Westjet",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/WJA.png"
+    },
+    {
+        "LiveryId": "2a4b808e-7794-47db-aa87-b85c448006b1",
+        "LiveryName": "ANA",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ANA.png"
+    },
+    {
+        "LiveryId": "01c94477-768e-47db-8adc-fb4e0b2d3d52",
+        "LiveryName": "LATAM",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LAN.png"
     }
 ]
