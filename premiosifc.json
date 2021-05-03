@@ -15,7 +15,8 @@
         "gol_20": "3740",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "3740"
+        "aniv_ifab": "3740",
+        "chile_day": ""
     },
     {
         "name": "Aylton Jd   ",
@@ -33,7 +34,8 @@
         "gol_20": "0125",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "0125"
+        "aniv_ifab": "0125",
+        "chile_day": "0125"
     },
     {
         "name": "Bruno Pantoja",
@@ -51,7 +53,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Caio Marcelo",
@@ -69,7 +72,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Charlie Silva",
@@ -87,7 +91,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": "5158"
     },
     {
         "name": "Cl\u00e1udio Henrique",
@@ -105,7 +110,8 @@
         "gol_20": "5884",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "5884"
+        "aniv_ifab": "5884",
+        "chile_day": "5884"
     },
     {
         "name": "Cleverton   ",
@@ -123,7 +129,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "3167"
+        "aniv_ifab": "3167",
+        "chile_day": ""
     },
     {
         "name": "Dalmo Cabral",
@@ -141,7 +148,8 @@
         "gol_20": "7864",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "7864"
+        "aniv_ifab": "7864",
+        "chile_day": ""
     },
     {
         "name": "Danilo Kau\u00e3",
@@ -159,7 +167,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Elton Mendes",
@@ -177,7 +186,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "0538"
+        "aniv_ifab": "0538",
+        "chile_day": ""
     },
     {
         "name": "Endrel Giovani",
@@ -195,7 +205,8 @@
         "gol_20": "1015",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "1015"
+        "aniv_ifab": "1015",
+        "chile_day": "1015"
     },
     {
         "name": "Fellipe Guimar\u00e3es",
@@ -213,7 +224,8 @@
         "gol_20": "2211",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "2211"
+        "aniv_ifab": "2211",
+        "chile_day": "2211"
     },
     {
         "name": "Fellipe Eduardo",
@@ -231,7 +243,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Gabriel Flavio",
@@ -249,7 +262,8 @@
         "gol_20": "7728",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "7728"
+        "aniv_ifab": "7728",
+        "chile_day": "7728"
     },
     {
         "name": "Gabriel Falci",
@@ -267,25 +281,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "4784"
-    },
-    {
-        "name": "Jean Machado",
-        "ifc_base": "1047",
-        "ifc_membro": "",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "4784",
+        "chile_day": "4784"
     },
     {
         "name": "Jhon Alex   ",
@@ -303,7 +300,8 @@
         "gol_20": "7704",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "7704"
+        "aniv_ifab": "7704",
+        "chile_day": ""
     },
     {
         "name": "Jhonny Willian",
@@ -321,7 +319,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Jo\u00e3o Vitor    ",
@@ -339,7 +338,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Jussifran Chaves",
@@ -357,7 +357,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Lucas Mende",
@@ -375,7 +376,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": "6781"
     },
     {
         "name": "Luiz Fernando Lenza",
@@ -393,7 +395,27 @@
         "gol_20": "6550",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "6550"
+        "aniv_ifab": "6550",
+        "chile_day": ""
+    },
+    {
+        "name": "Marllon S\u00e9rgio",
+        "ifc_base": "",
+        "ifc_membro": "",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "",
+        "inded_2020": "",
+        "indep_2021": "",
+        "repatriacao": "",
+        "subleasing": "",
+        "klm_100": "",
+        "gol_20": "",
+        "madrugol": "",
+        "kai_tak": "",
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Matheus Oliveira",
@@ -411,12 +433,13 @@
         "gol_20": "1510",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "1510"
+        "aniv_ifab": "1510",
+        "chile_day": ""
     },
     {
         "name": "Matheus Ferguglia",
         "ifc_base": "3644",
-        "ifc_membro": "",
+        "ifc_membro": "3644",
         "ifc_regular": "",
         "ifaet": "",
         "ifatc": "",
@@ -429,7 +452,8 @@
         "gol_20": "3644",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "3644"
+        "aniv_ifab": "3644",
+        "chile_day": ""
     },
     {
         "name": "Matheus Etges",
@@ -447,7 +471,8 @@
         "gol_20": "0450",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "0450"
+        "aniv_ifab": "0450",
+        "chile_day": "0450"
     },
     {
         "name": "Mozart Santos",
@@ -465,7 +490,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "3936"
+        "aniv_ifab": "3936",
+        "chile_day": "3936"
     },
     {
         "name": "Natanael    ",
@@ -483,7 +509,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Ot\u00e1vio Perez",
@@ -491,7 +518,7 @@
         "ifc_membro": "",
         "ifc_regular": "",
         "ifaet": "",
-        "ifatc": "",
+        "ifatc": "4304",
         "indep_2019": "",
         "inded_2020": "",
         "indep_2021": "",
@@ -501,25 +528,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "4304"
-    },
-    {
-        "name": "Pablo          ",
-        "ifc_base": "4998",
-        "ifc_membro": "4998",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": "4998"
+        "aniv_ifab": "4304",
+        "chile_day": ""
     },
     {
         "name": "Pedro Costa",
@@ -537,7 +547,8 @@
         "gol_20": "3233",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "3233"
+        "aniv_ifab": "3233",
+        "chile_day": "3233"
     },
     {
         "name": "Pedro Koachany",
@@ -555,7 +566,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Pedro Maia",
@@ -573,25 +585,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
-    },
-    {
-        "name": "Rafael Machado",
-        "ifc_base": "",
-        "ifc_membro": "",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
     },
     {
         "name": "Renan Santana",
@@ -609,7 +604,8 @@
         "gol_20": "0913",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "0913"
+        "aniv_ifab": "0913",
+        "chile_day": "0913"
     },
     {
         "name": "Renato Onibene",
@@ -627,7 +623,8 @@
         "gol_20": "1116",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "1116"
+        "aniv_ifab": "1116",
+        "chile_day": ""
     },
     {
         "name": "Santiago      ",
@@ -645,7 +642,8 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "0338"
+        "aniv_ifab": "0338",
+        "chile_day": ""
     },
     {
         "name": "Thiago Araujo",
@@ -663,7 +661,8 @@
         "gol_20": "8308",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": "8308"
+        "aniv_ifab": "8308",
+        "chile_day": "8308"
     },
     {
         "name": "Willy Robert",
@@ -681,6 +680,26 @@
         "gol_20": "",
         "madrugol": "",
         "kai_tak": "",
-        "aniv_ifab": ""
+        "aniv_ifab": "",
+        "chile_day": ""
+    },
+    {
+        "name": "Marcelo Pessoa",
+        "ifc_base": "",
+        "ifc_membro": "",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "",
+        "inded_2020": "",
+        "indep_2021": "",
+        "repatriacao": "",
+        "subleasing": "",
+        "klm_100": "",
+        "gol_20": "",
+        "madrugol": "",
+        "kai_tak": "",
+        "aniv_ifab": "",
+        "chile_day": "6594"
     }
 ]
