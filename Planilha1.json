@@ -2805,7 +2805,7 @@
         "LiveryId": "a3275da7-6b22-4037-9e71-3a47ae042941",
         "LiveryName": "Kulula",
         "Icao": "NO",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CAW.png"
     },
     {
         "LiveryId": "fb704ebc-d34d-448c-b996-5d1df46a9246",
@@ -4690,12 +4690,6 @@
         "LiveryName": "US Airways",
         "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
-    },
-    {
-        "LiveryId": "8944b457-4636-4359-b72b-e9f9999a06e6",
-        "LiveryName": "Easyjet",
-        "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/EZY.png"
     },
     {
         "LiveryId": "dcdcfedc-8c9d-408b-9f5d-2f0632eeb2c8",
