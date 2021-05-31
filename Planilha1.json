@@ -1722,6 +1722,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/ETH.png"
     },
     {
+        "LiveryId": "e315d4b3-5372-47cf-ab87-2ab8b64bcc49",
+        "LiveryName": "Ethiopian",
+        "Icao": "ETH",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ETH.png"
+    },
+    {
         "LiveryId": "03949eb7-ff6a-4050-aaf6-511388690990",
         "LiveryName": "Ethiopian Airlines",
         "Icao": "ETH",
