@@ -1,23 +1,23 @@
 [
     {
         "AircraftId": "982dd974-5be7-4369-90c6-bd92863632ba",
-        "AircraftName": "Airbus A318"
+        "AircraftName": "A318"
     },
     {
         "AircraftId": "2c2f162e-a7d9-4ebd-baf4-859aed36165a",
-        "AircraftName": "Airbus A319"
+        "AircraftName": "A319"
     },
     {
         "AircraftId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
-        "AircraftName": "Airbus A320"
+        "AircraftName": "A320"
     },
     {
         "AircraftId": "d7434d84-555a-4d9b-93a7-53c77cf846ea",
-        "AircraftName": "Airbus A321"
+        "AircraftName": "A321"
     },
     {
         "AircraftId": "2b1249c8-11d8-4fa6-9aae-a99eff451225",
-        "AircraftName": "C-17"
+        "AircraftName": "C17"
     },
     {
         "AircraftId": "0a3edb21-d515-4619-8392-aef51b952ac9",
@@ -25,214 +25,214 @@
     },
     {
         "AircraftId": "e92bc6db-a9e6-4137-a93c-a7423715b799",
-        "AircraftName": "Cirrus SR22 GTS"
+        "AircraftName": "SR22"
     },
     {
         "AircraftId": "7bd8096f-8eae-47b9-8e1a-38dabd2c59c4",
-        "AircraftName": "F-16"
+        "AircraftName": "F16"
     },
     {
         "AircraftId": "9769c825-0f89-4faf-abb1-9dd473321ede",
-        "AircraftName": "P-38"
+        "AircraftName": "P38"
     },
     {
         "AircraftId": "f11ed126-bce8-46ef-9265-69191c354575",
-        "AircraftName": "Airbus A380"
+        "AircraftName": "A380"
     },
     {
         "AircraftId": "f580ad00-b7c7-4813-9dbc-c4a8c655cc46",
-        "AircraftName": "Airbus A330-200F"
+        "AircraftName": "A33F"
     },
     {
         "AircraftId": "6af2c9f8-abd8-4872-a9bc-4e79fd84fe77",
-        "AircraftName": "Airbus A330-300"
+        "AircraftName": "A333"
     },
     {
         "AircraftId": "8b00fd70-d825-4c30-a52e-3a27a3a1a157",
-        "AircraftName": "Airbus A340-600"
+        "AircraftName": "A346"
     },
     {
         "AircraftId": "81d9ccd4-9c03-493a-811e-8fad3e57bd05",
-        "AircraftName": "A-10"
+        "AircraftName": "A10"
     },
     {
         "AircraftId": "dac4bb8e-6bb3-480a-a5a5-191d7d351e47",
-        "AircraftName": "ERJ-170"
+        "AircraftName": "E170"
     },
     {
         "AircraftId": "af055734-aaed-44ad-a2d0-5b9046f29d0d",
-        "AircraftName": "ERJ-175"
+        "AircraftName": "E175"
     },
     {
         "AircraftId": "7de22dcf-91dd-4932-b225-533298873df2",
-        "AircraftName": "ERJ-190"
+        "AircraftName": "E190"
     },
     {
         "AircraftId": "dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755",
-        "AircraftName": "ERJ-195"
+        "AircraftName": "E195"
     },
     {
         "AircraftId": "3828d120-d5b9-475b-b368-a94aad264b07",
-        "AircraftName": "Boeing 767-300"
+        "AircraftName": "B763"
     },
     {
         "AircraftId": "8a62f1d0-bca9-494c-bc01-1fb8b7255f76",
-        "AircraftName": "Spitfire"
+        "AircraftName": "SPIT"
     },
     {
         "AircraftId": "9bbe741a-6fbe-415b-9eb1-00d45083c7a4",
-        "AircraftName": "F-14"
+        "AircraftName": "F14"
     },
     {
         "AircraftId": "ed29f26b-774e-471e-a23a-ecb9b6f5da74",
-        "AircraftName": "Boeing 757-200"
+        "AircraftName": "B752"
     },
     {
         "AircraftId": "341820c8-ed7e-4824-9f53-f7489231fe26",
-        "AircraftName": "Boeing 717-200"
+        "AircraftName": "B712"
     },
     {
         "AircraftId": "849366e1-cb11-4d72-9034-78b11cd026b0",
-        "AircraftName": "F-22"
+        "AircraftName": "F22"
     },
     {
         "AircraftId": "206884f9-38a8-4118-a920-a7dcbd166c47",
-        "AircraftName": "Cessna 208"
+        "AircraftName": "C208"
     },
     {
         "AircraftId": "bec63a00-a483-4427-a076-0f76dba0ee97",
-        "AircraftName": "Boeing 777-200ER"
+        "AircraftName": "B772"
     },
     {
         "AircraftId": "6925c030-a868-49cc-adc8-7025537c51ca",
-        "AircraftName": "Boeing 777F"
+        "AircraftName": "B77F"
     },
     {
         "AircraftId": "e258f6d4-4503-4dde-b25c-1fb9067061e2",
-        "AircraftName": "Boeing 777-300ER"
+        "AircraftName": "B77W"
     },
     {
         "AircraftId": "8290107b-d728-4fc3-b36e-0224c1780bac",
-        "AircraftName": "Boeing 777-200LR"
+        "AircraftName": "B77L"
     },
     {
         "AircraftId": "150fd3d1-1b06-431b-a889-628ae470d57b",
-        "AircraftName": "Cessna Citation X"
+        "AircraftName": "C750"
     },
     {
         "AircraftId": "2ec6f8cd-fdb9-464f-87c2-808f778fdb1d",
-        "AircraftName": "Boeing 737-700"
+        "AircraftName": "B737"
     },
     {
         "AircraftId": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
-        "AircraftName": "Boeing 737-800"
+        "AircraftName": "B738"
     },
     {
         "AircraftId": "64568366-b72c-47bd-8bf6-6fdb81b683f9",
-        "AircraftName": "Boeing 737-900"
+        "AircraftName": "B739"
     },
     {
         "AircraftId": "de510d3d-04f8-46e0-8d65-55b888f33129",
-        "AircraftName": "Boeing 747-400"
+        "AircraftName": "B744"
     },
     {
         "AircraftId": "0d49ce9e-446a-4d12-b651-6983afdeeb40",
-        "AircraftName": "Boeing 747-SCA"
+        "AircraftName": "N/D"
     },
     {
         "AircraftId": "e94ec915-3368-4bcc-bc78-2c5ad3cfbabb",
-        "AircraftName": "Boeing 747-AF1"
+        "AircraftName": "N/D"
     },
     {
         "AircraftId": "9759c19f-8f18-40f5-80d1-03a272f98a3b",
-        "AircraftName": "Boeing 747-8"
+        "AircraftName": "B748"
     },
     {
         "AircraftId": "c82da702-ea61-4399-921c-34f35f3ca5c4",
-        "AircraftName": "Boeing 747-200"
+        "AircraftName": "B742"
     },
     {
         "AircraftId": "3ee45d20-1984-4d95-a753-3696e35cdf77",
-        "AircraftName": "Boeing 747-SOFIA"
+        "AircraftName": "N/D"
     },
     {
         "AircraftId": "3098345e-1152-4441-96ec-40a71179a24f",
-        "AircraftName": "Bombardier Dash 8-Q400"
+        "AircraftName": "BHD8"
     },
     {
         "AircraftId": "c1ae3647-f56a-4dc4-9007-cc8b1a2697a5",
-        "AircraftName": "Boeing 787-8"
+        "AircraftName": "B788"
     },
     {
         "AircraftId": "0c039044-1a57-48db-99c1-7570a6bf2b00",
-        "AircraftName": "Boeing 787-9"
+        "AircraftName": "B789"
     },
     {
         "AircraftId": "61084cae-8aac-4da4-a7df-396ec6d9c870",
-        "AircraftName": "Boeing 787-10"
+        "AircraftName": "B78X"
     },
     {
         "AircraftId": "7b6e1658-42ab-4fc3-81ec-706445346d46",
-        "AircraftName": "C-130H"
+        "AircraftName": "C30H"
     },
     {
         "AircraftId": "33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913",
-        "AircraftName": "C-130J"
+        "AircraftName": "C30J"
     },
     {
         "AircraftId": "e0e1900e-0e63-4700-b508-5e2efe120ce5",
-        "AircraftName": "C-130J-30"
+        "AircraftName": "C130"
     },
     {
         "AircraftId": "876b428a-3ee2-46cd-9d8c-2c59424dfcb5",
-        "AircraftName": "AC-130"
+        "AircraftName": "C130"
     },
     {
         "AircraftId": "b1e726b0-be58-4a9b-88e5-e40bc40a1f9a",
-        "AircraftName": "MD-11"
+        "AircraftName": "MD11"
     },
     {
         "AircraftId": "3f78766a-30c8-4d65-95ae-ebc2fb758aac",
-        "AircraftName": "MD-11F"
+        "AircraftName": "MD1F"
     },
     {
         "AircraftId": "693c3fab-307d-4467-aa40-0a4d569841a9",
-        "AircraftName": "DC-10"
+        "AircraftName": "DC10"
     },
     {
         "AircraftId": "e59fa7b4-b708-4480-aebd-26659a4f312b",
-        "AircraftName": "DC-10F"
+        "AircraftName": "DC1F"
     },
     {
         "AircraftId": "24364e52-3788-487f-9f98-00f38b1f459c",
-        "AircraftName": "CRJ-200"
+        "AircraftName": "CRJ2"
     },
     {
         "AircraftId": "8f34680a-a4ad-4f21-91e9-3a932ab03ca4",
-        "AircraftName": "CRJ-700"
+        "AircraftName": "CRJ7"
     },
     {
         "AircraftId": "958486b0-1ef4-4efd-bee0-ea94e96f6c96",
-        "AircraftName": "CRJ-900"
+        "AircraftName": "CRJ9"
     },
     {
         "AircraftId": "b3907f6b-c8cf-427b-94fb-1f9365d990df",
-        "AircraftName": "CRJ-1000"
+        "AircraftName": "CRJX"
     },
     {
         "AircraftId": "3f17ca35-b384-4391-aa5e-5beececb0612",
-        "AircraftName": "TBM-930"
+        "AircraftName": "TBM9"
     },
     {
         "AircraftId": "ef677903-f8d3-414f-a190-233b2b855d46",
-        "AircraftName": "Cessna 172"
+        "AircraftName": "C172"
     },
     {
         "AircraftId": "8bafde46-7e6e-44c5-800f-917237c49d75",
-        "AircraftName": "CubCrafters XCub"
+        "AircraftName": "CC19"
     },
     {
         "AircraftId": "230ec095-5e36-4637-ba2f-68831b31e891",
-        "AircraftName": "Airbus A350"
+        "AircraftName": "A359"
     }
 ]
