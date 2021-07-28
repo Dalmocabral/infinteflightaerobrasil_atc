@@ -1572,12 +1572,6 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/DAL.png"
     },
     {
-        "LiveryId": "6f0305f2-b66a-4636-898a-82b72dfc2331",
-        "LiveryName": "Delta Air Lines",
-        "Icao": "DAL",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/DAL.png"
-    },
-    {
         "LiveryId": "8aefff86-a91b-4e9f-be05-15e536c1df45",
         "LiveryName": "Delta Air Lines",
         "Icao": "DAL",
@@ -3064,12 +3058,6 @@
         "LiveryName": "Lion Air",
         "Icao": "LNI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/LNI.png"
-    },
-    {
-        "LiveryId": "LiveryId",
-        "LiveryName": "LiveryName",
-        "Icao": "Icao",
-        "Logo": "Logo"
     },
     {
         "LiveryId": "51dd05b8-85c7-496b-96f6-649a056ff976",
