@@ -2727,19 +2727,19 @@
         "LiveryId": "124af2c6-427f-4d51-bbdf-6c3f1e19cf60",
         "LiveryName": "JetBlue",
         "Icao": "JBU",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
+        "Logo": "https://i.imgur.com/6URZZj0.png"
     },
     {
         "LiveryId": "80fc182b-5e4c-4fd7-9103-7221a72091b5",
         "LiveryName": "JetBlue",
         "Icao": "JBU",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
+        "Logo": "https://i.imgur.com/2PbLzlz.png"
     },
     {
         "LiveryId": "97b1b5ef-0db9-4bca-9bb5-5970ebbb83b1",
         "LiveryName": "JetBlue",
         "Icao": "JBU",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/JBU.png"
+        "Logo": "https://i.imgur.com/elyKx8L.png"
     },
     {
         "LiveryId": "dcdcfedc-8c9d-408b-9f5d-2f0632eeb2c8",
@@ -3345,7 +3345,7 @@
         "LiveryId": "310e269e-1d37-42b2-9bf5-ab3224445d23",
         "LiveryName": "Northwest Airlines",
         "Icao": "NO",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PUE.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
         "LiveryId": "3b711c68-280a-469a-98a2-54595192aca4",
@@ -3386,7 +3386,7 @@
     {
         "LiveryId": "b756a9a2-9d69-42a3-bf8f-865067d6e848",
         "LiveryName": "Olympic",
-        "Icao": "PUE",
+        "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
