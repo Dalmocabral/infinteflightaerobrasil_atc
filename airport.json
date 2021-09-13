@@ -1,0 +1,158 @@
+[
+    {
+        "Icao": "BIKF",
+        "Nome": "Keflavik - Iceland",
+        "Latitude": 63985.0,
+        "Longitude": "-22.605556"
+    },
+    {
+        "Icao": "EDDF",
+        "Nome": "Frankfurt Main - Germany",
+        "Latitude": "50.901389",
+        "Longitude": "4.484444"
+    },
+    {
+        "Icao": "EBBR",
+        "Nome": "Brussels / Brussels-National - Belgium",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "EGCC",
+        "Nome": "Manchester Intl - United Kingdom",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "EGPT",
+        "Nome": "Perth-Scone - United Kingdom",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "EGVN",
+        "Nome": "Brize Norton - United Kingdom",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "EPWA",
+        "Nome": "Lotnisko Chopina W Warszawie - Poland",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "KASE",
+        "Nome": "Aspen-Pitkin Co Sardy Field - United States",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "KBOS",
+        "Nome": "Gen Edward Lawrence Logan Intl - United States",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "KHOU",
+        "Nome": "Houston William P Hobby - United States",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "KIAD",
+        "Nome": "Washington Dulles Intl - United States",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "KLAS",
+        "Nome": "Harry Reid Intl - United States",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "LEMD",
+        "Nome": "Adolfo Suarez Madrid-Barajas - Spain",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "LIPZ",
+        "Nome": "Venezia Tessera - Italy",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "LTFM",
+        "Nome": "Istanbul Airport - Turkey",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "MMOX",
+        "Nome": "Xoxocotlan - Mexico",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "MMPR",
+        "Nome": "Lic. Gustavo Diaz Ordaz Intl. - Mexico",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "MPTO",
+        "Nome": "Tocumen - Panama",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "MUHA",
+        "Nome": "La Habana - Jose Marti Intl - Cuba",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "NZDN",
+        "Nome": "Dunedin - New Zealand",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "OPKC",
+        "Nome": "Karachi Jinnah Intl. - Pakistan",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "PAJN",
+        "Nome": "Juneau Intl - US (Alaska)",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "RCKH",
+        "Nome": "Kaohsiung Intl - Taiwan",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "SBGL",
+        "Nome": "Galeao - Antonio Carlos Jobim - Brazil",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "SBRF",
+        "Nome": "Guararapes - Gilberto F Intl - Brazil",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Icao": "SCTE",
+        "Nome": "El Tepual - Chile",
+        "Latitude": "",
+        "Longitude": ""
+    }
+]

@@ -1,3 +1,3 @@
 import excel2json
 
-excel2json.convert_from_file('companhias.xlsx')
+excel2json.convert_from_file('airport.xlsx')
