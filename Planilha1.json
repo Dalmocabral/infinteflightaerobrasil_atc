@@ -217,13 +217,13 @@
     },
     {
         "LiveryId": "96a61185-ef51-4b64-ae32-437feb984504",
-        "LiveryName": "Air Asia",
+        "LiveryName": "AirAsia",
         "Icao": "AWQ",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AWQ.png"
     },
     {
         "LiveryId": "1767f8a2-d6fb-48d1-b8dd-1fc52a243d3a",
-        "LiveryName": "Air Asia X",
+        "LiveryName": "AirAsia X",
         "Icao": "AWQ",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AWQ.png"
     },
@@ -4864,5 +4864,107 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "75b5f368-67ce-4727-ab3a-309a38fe073c",
+        "LiveryName": "Air Belgium",
+        "Icao": "ABB",
+        "Logo": "https://i.imgur.com/cX0zNzV.png"
+    },
+    {
+        "LiveryId": "c4007cc5-ef7d-4cab-af93-6be9fd15be1a",
+        "LiveryName": "Air Mauritius",
+        "Icao": "MAU",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/MAU.png"
+    },
+    {
+        "LiveryId": "1716cc02-1ce5-4dc1-abfa-f8f7d59d00f2",
+        "LiveryName": "Air Senegal",
+        "Icao": "SZN",
+        "Logo": "1716cc02-1ce5-4dc1-abfa-f8f7d59d00f2"
+    },
+    {
+        "LiveryId": "2f5e614b-f825-43b9-9c75-b504e60f4776",
+        "LiveryName": "Airbus neo",
+        "Icao": "NEO",
+        "Logo": "https://i.imgur.com/FrjRYaP.png"
+    },
+    {
+        "LiveryId": "dc8b3359-5170-4844-8043-274b27447164",
+        "LiveryName": "Aircalin",
+        "Icao": "ACI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACI.png"
+    },
+    {
+        "LiveryId": "8944ff81-f687-4d33-8717-b7252d2ab280",
+        "LiveryName": "Azul",
+        "Icao": "AZU",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
+    },
+    {
+        "LiveryId": "2599748b-8045-4ab4-b00f-4ee663519e59",
+        "LiveryName": "Azul Rosa",
+        "Icao": "AZL",
+        "Logo": "https://i.imgur.com/mytyAzW.png"
+    },
+    {
+        "LiveryId": "da07b892-b293-4c4b-9389-ceefcc828582",
+        "LiveryName": "Citilink",
+        "Icao": "CTV",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CTV.png"
+    },
+    {
+        "LiveryId": "88867199-7daa-4ad3-9f1a-1db6b341befd",
+        "LiveryName": "Corsair",
+        "Icao": "CFG",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CRL.png"
+    },
+    {
+        "LiveryId": "786f529b-d290-47fe-9ab5-77c89c39eb6a",
+        "LiveryName": "Delta",
+        "Icao": "DAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/DAL.png"
+    },
+    {
+        "LiveryId": "8705124b-2ef5-47e8-ba09-83354ea2691a",
+        "LiveryName": "Garuda Indonesia",
+        "Icao": "GIA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/GIA.png"
+    },
+    {
+        "LiveryId": "a9afe182-7961-4633-8439-2ce41ca2bbc1",
+        "LiveryName": "Generic",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "60b24fcb-b53b-4653-9841-c3d7efa94bd5",
+        "LiveryName": "HiFly",
+        "Icao": "HFY",
+        "Logo": "https://i.imgur.com/xrgcvQ0.png"
+    },
+    {
+        "LiveryId": "4a40dc28-fbca-44b5-aef7-9fc1f0846cca",
+        "LiveryName": "Iberojet",
+        "Icao": "EVE",
+        "Logo": "https://i.imgur.com/HtdM595.png"
+    },
+    {
+        "LiveryId": "5fa22d06-1d44-46e4-b797-6c254b23cbfc",
+        "LiveryName": "TAP",
+        "Icao": "TAP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TAP.png"
+    },
+    {
+        "LiveryId": "8b31b81c-7981-4ab8-b2bc-ca1f3d59456b",
+        "LiveryName": "Thai AirAsia",
+        "Icao": "AIQ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TAX.png"
+    },
+    {
+        "LiveryId": "5c9e63ea-683e-4ea6-8169-3e75bb971063",
+        "LiveryName": "Thai Lion Air",
+        "Icao": "TLM",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TLM.png"
     }
 ]
