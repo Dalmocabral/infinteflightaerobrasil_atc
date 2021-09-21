@@ -13,10 +13,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "3740",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "3740",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Aylton Jd   ",
@@ -27,15 +26,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "0125",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "0125",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "0125",
-        "olympic": "0125"
+        "olympic": "0125",
+        "A330neo": "0125"
     },
     {
         "name": "Bruno Pantoja",
@@ -51,10 +49,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Caio Marcelo",
@@ -65,15 +62,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "1418",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Carlos Henrique",
@@ -89,10 +85,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Charlie Silva",
@@ -103,15 +98,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "5158",
-        "indep_2021": "",
+        "indep_2021": "5158",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Cl\u00e1udio Henrique",
@@ -122,15 +116,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "5884",
-        "indep_2021": "",
+        "indep_2021": "5884",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "5884",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "5884",
-        "olympic": "5884"
+        "olympic": "5884",
+        "A330neo": ""
     },
     {
         "name": "Cleverton   ",
@@ -146,10 +139,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "3167",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "3167"
     },
     {
         "name": "Dalmo Cabral",
@@ -160,15 +152,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "7864",
-        "indep_2021": "",
+        "indep_2021": "7864",
         "repatriacao": "7864",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "7864",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "7864",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "7864"
     },
     {
         "name": "Danilo Kau\u00e3",
@@ -184,10 +175,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Elton Mendes",
@@ -198,15 +188,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "0538",
         "repatriacao": "",
         "subleasing": "0538",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "0538",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "0538"
     },
     {
         "name": "Endrel Giovani",
@@ -217,15 +206,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "1015",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "1015",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "1015",
-        "olympic": "1015"
+        "olympic": "1015",
+        "A330neo": "1015"
     },
     {
         "name": "Fellipe Eduardo",
@@ -241,10 +229,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Fellipe Guimar\u00e3es",
@@ -255,76 +242,18 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "2211",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "2211",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "2211",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "2211"
     },
     {
-        "name": "Gabriel Falci",
-        "ifc_base": "4784",
-        "ifc_membro": "4784",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "4784",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": "4784",
-        "olympic": "4784"
-    },
-    {
-        "name": "Gabriel Flavio",
-        "ifc_base": "7728",
-        "ifc_membro": "7728",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "7728",
-        "inded_2020": "7728",
-        "indep_2021": "",
-        "repatriacao": "7728",
-        "subleasing": "7728",
-        "klm_100": "7728",
-        "gol_20": "7728",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": "7728",
-        "olympic": "7728"
-    },
-    {
-        "name": "Guilherme Carvalho",
-        "ifc_base": "5375",
-        "ifc_membro": "5375",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": "",
-        "olympic": ""
-    },
-    {
-        "name": "Jhon Alex   ",
-        "ifc_base": "7704",
+        "name": "Fernando Costa",
+        "ifc_base": "",
         "ifc_membro": "",
         "ifc_regular": "",
         "ifaet": "",
@@ -335,11 +264,82 @@
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
+        "gol_20": "",
+        "aniv_ifab": "",
+        "olympic": "",
+        "A330neo": ""
+    },
+    {
+        "name": "Gabriel Falci",
+        "ifc_base": "4784",
+        "ifc_membro": "4784",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "",
+        "inded_2020": "4784",
+        "indep_2021": "4784",
+        "repatriacao": "",
+        "subleasing": "",
+        "klm_100": "",
+        "gol_20": "",
+        "aniv_ifab": "4784",
+        "olympic": "4784",
+        "A330neo": "4784"
+    },
+    {
+        "name": "Gabriel Flavio",
+        "ifc_base": "7728",
+        "ifc_membro": "7728",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "7728",
+        "inded_2020": "7728",
+        "indep_2021": "7728",
+        "repatriacao": "7728",
+        "subleasing": "7728",
+        "klm_100": "7728",
+        "gol_20": "7728",
+        "aniv_ifab": "7728",
+        "olympic": "7728",
+        "A330neo": "7728"
+    },
+    {
+        "name": "Guilherme Carvalho",
+        "ifc_base": "5375",
+        "ifc_membro": "5375",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "",
+        "inded_2020": "",
+        "indep_2021": "5375",
+        "repatriacao": "",
+        "subleasing": "",
+        "klm_100": "",
+        "gol_20": "",
+        "aniv_ifab": "",
+        "olympic": "",
+        "A330neo": ""
+    },
+    {
+        "name": "Jhon Alex   ",
+        "ifc_base": "7704",
+        "ifc_membro": "",
+        "ifc_regular": "",
+        "ifaet": "",
+        "ifatc": "",
+        "indep_2019": "",
+        "inded_2020": "",
+        "indep_2021": "7704",
+        "repatriacao": "",
+        "subleasing": "",
+        "klm_100": "",
         "gol_20": "7704",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "7704",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Jhonny Willian",
@@ -355,10 +355,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Jo\u00e3o Vitor    ",
@@ -374,10 +373,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Jussifran Chaves",
@@ -393,10 +391,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Lucas Mende",
@@ -407,18 +404,17 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "6781",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
-        "name": "Luiz Fernando Lenza",
+        "name": "Luiz Fernando",
         "ifc_base": "6550",
         "ifc_membro": "6550",
         "ifc_regular": "",
@@ -426,15 +422,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "6550",
-        "indep_2021": "",
+        "indep_2021": "6550",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "6550",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "6550",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "6550"
     },
     {
         "name": "Marcelo Pessoa",
@@ -450,29 +445,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
-    },
-    {
-        "name": "Marcelo Pessoa",
-        "ifc_base": "",
-        "ifc_membro": "",
-        "ifc_regular": "",
-        "ifaet": "",
-        "ifatc": "",
-        "indep_2019": "",
-        "inded_2020": "",
-        "indep_2021": "",
-        "repatriacao": "",
-        "subleasing": "",
-        "klm_100": "",
-        "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
-        "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Marllon S\u00e9rgio",
@@ -488,10 +463,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Matheus Etges",
@@ -502,15 +476,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "0450",
-        "indep_2021": "",
+        "indep_2021": "0450",
         "repatriacao": "0450",
         "subleasing": "0450",
         "klm_100": "",
         "gol_20": "0450",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "0450",
-        "olympic": "0450"
+        "olympic": "0450",
+        "A330neo": ""
     },
     {
         "name": "Matheus Ferguglia",
@@ -526,10 +499,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "3644",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "3644",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": "3644"
     },
     {
         "name": "Matheus Oliveira",
@@ -545,10 +517,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "1510",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "1510",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Matheus Souza",
@@ -559,15 +530,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "6975",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": "6975"
+        "olympic": "6975",
+        "A330neo": "6975"
     },
     {
         "name": "Mozart Santos",
@@ -583,10 +553,9 @@
         "subleasing": "",
         "klm_100": "3936",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "3936",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Natanael    ",
@@ -602,10 +571,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Ot\u00e1vio Perez",
@@ -621,10 +589,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "4304",
-        "olympic": "4304"
+        "olympic": "4304",
+        "A330neo": "4304"
     },
     {
         "name": "Pedro Costa",
@@ -635,15 +602,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "",
-        "indep_2021": "",
+        "indep_2021": "3233",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "3233",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "3233",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Pedro Koachany",
@@ -659,10 +625,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Pedro Maia",
@@ -678,10 +643,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Renan Santana",
@@ -697,10 +661,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "0913",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "0913",
-        "olympic": "0913"
+        "olympic": "0913",
+        "A330neo": ""
     },
     {
         "name": "Renato Onibene",
@@ -711,15 +674,14 @@
         "ifatc": "",
         "indep_2019": "1116",
         "inded_2020": "1116",
-        "indep_2021": "",
+        "indep_2021": "1116",
         "repatriacao": "1116",
         "subleasing": "1116",
         "klm_100": "1116",
         "gol_20": "1116",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "1116",
-        "olympic": "1116"
+        "olympic": "1116",
+        "A330neo": "1116"
     },
     {
         "name": "Santiago      ",
@@ -735,10 +697,9 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "0338",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     },
     {
         "name": "Thiago Araujo",
@@ -749,15 +710,14 @@
         "ifatc": "",
         "indep_2019": "",
         "inded_2020": "8308",
-        "indep_2021": "",
+        "indep_2021": "8308",
         "repatriacao": "",
         "subleasing": "",
         "klm_100": "",
         "gol_20": "8308",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "8308",
-        "olympic": "8303"
+        "olympic": "8308",
+        "A330neo": "8308"
     },
     {
         "name": "Willy Robert",
@@ -773,9 +733,8 @@
         "subleasing": "",
         "klm_100": "",
         "gol_20": "",
-        "madrugol": "",
-        "kai_tak": "",
         "aniv_ifab": "",
-        "olympic": ""
+        "olympic": "",
+        "A330neo": ""
     }
 ]
