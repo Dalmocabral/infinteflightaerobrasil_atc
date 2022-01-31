@@ -564,7 +564,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
     },
     {
-        "LiveryId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
+        "LiveryId": "4271e71d-25e7-43d8-a6e7-79c2c3359bdd",
         "LiveryName": "Air India",
         "Icao": "AIC",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AIC.png"
@@ -2935,7 +2935,7 @@
     },
     {
         "LiveryId": "",
-        "LiveryName": "JetBlue Airways A320",
+        "LiveryName": "JetBlue Airways",
         "Icao": "JBU",
         "Logo": "https://i.imgur.com/WJvFchV.png"
     },
@@ -3813,55 +3813,55 @@
         "LiveryId": "5b45864c-d8e4-405a-95fc-6dc4332540c2",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "78a78eb5-9b23-4e4d-8312-2db5f4ac889a",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "8887a4aa-4043-4c29-a9a8-2d4269d5daf2",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "92daac17-191e-4527-b55b-3417334f2a57",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "bbd9aceb-63dd-4acb-97e4-579156d02a7f",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "f2e25c0d-d7b1-4559-9c35-bc3f097a7428",
         "LiveryName": "Qantas",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "05f62b14-907a-4b43-88f6-dc53df3f93a2",
         "LiveryName": "QantasLink",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "09893b8b-eef1-4055-976e-9ff14d934a11",
         "LiveryName": "QantasLink",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "f4cf673d-406c-44d3-b5f6-d0e6e876616f",
         "LiveryName": "QantasLink",
         "Icao": "QFA",
-        "Logo": "https://i.imgur.com/H8wklkz.png"
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
     },
     {
         "LiveryId": "d08b0e6e-6bdd-4257-bf4d-9dd5c8f4f7b7",
@@ -5116,5 +5116,17 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "United Parcel Service (UPS)",
+        "Icao": "UPS",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UPS.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Pegasus",
+        "Icao": "PGT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/PGT.png"
     }
 ]
