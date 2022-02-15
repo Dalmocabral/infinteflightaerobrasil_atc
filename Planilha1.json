@@ -150,7 +150,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AFL.png"
     },
     {
-        "LiveryId": "ca7f2263-9931-432a-a7db-bedb40f5ca30\t",
+        "LiveryId": "ca7f2263-9931-432a-a7db-bedb40f5ca30",
         "LiveryName": "Aeroflot - Russian Airlines",
         "Icao": "AFL",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AFL.png"
@@ -180,7 +180,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/BOX.png"
     },
     {
-        "LiveryId": "48171663-d72d-4b70-b6c7-2a74a03394a4        ",
+        "LiveryId": "48171663-d72d-4b70-b6c7-2a74a03394a4",
         "LiveryName": "Aeromexico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
@@ -1572,6 +1572,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/CFG.png"
     },
     {
+        "LiveryId": "31d7210f-3646-49e0-b16f-658b5ea882cf",
+        "LiveryName": "Congo Airways",
+        "Icao": "CGA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CGA.png"
+    },
+    {
         "LiveryId": "95770e58-769a-4b07-b382-abb3efde5da3",
         "LiveryName": "Continental Airlines",
         "Icao": "NO",
@@ -1824,7 +1830,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
-        "LiveryId": "1d7f7721-6932-46a7-abdc-b74816da4ab0        ",
+        "LiveryId": "1d7f7721-6932-46a7-abdc-b74816da4ab0",
         "LiveryName": "EgyptAir",
         "Icao": "MSR",
         "Logo": "https://i.imgur.com/iqG4hiD.png"
@@ -3504,6 +3510,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
+        "LiveryId": "3f82d3d0-8c36-4a22-99a0-d1e4cad7ae6d",
+        "LiveryName": "Mokulele Airlines",
+        "Icao": "MUL",
+        "Logo": "NOhttps://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
         "LiveryId": "85a55755-6316-4045-8477-f972c16acb0a",
         "LiveryName": "Monarch Airlines",
         "Icao": "MON",
@@ -3676,6 +3688,12 @@
         "LiveryName": "Peach",
         "Icao": "APJ",
         "Logo": "https://cdn.radarbox.com/airlines/sq/APJ.png"
+    },
+    {
+        "LiveryId": "66b0444f-3649-485d-91d0-ee07e434188d",
+        "LiveryName": "Pegasus",
+        "Icao": "PGT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/PGT.png"
     },
     {
         "LiveryId": "816731e6-9ecd-4c4e-9f53-194f405a9d11",
@@ -4560,7 +4578,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/TSO.png"
     },
     {
-        "LiveryId": "2dda19dd-4714-4139-96f1-bcba85124dc1",
+        "LiveryId": "8c6741da-8e7d-4fff-8a5a-c0c1803c3a78",
         "LiveryName": "Transavia",
         "Icao": "TRA",
         "Logo": "https://cdn.radarbox.com/airlines/sq/TRA.png"
@@ -4842,6 +4860,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/UPS.png"
     },
     {
+        "LiveryId": "6a026ab9-60fe-49d1-b38a-66cc3f71ae41",
+        "LiveryName": "United Parcel Service (UPS)",
+        "Icao": "UPS",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UPS.png"
+    },
+    {
         "LiveryId": "21fa24d7-7493-4baf-9026-90f834b3eca7",
         "LiveryName": "US Air Force",
         "Icao": "NO",
@@ -5116,17 +5140,5 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
-    },
-    {
-        "LiveryId": "",
-        "LiveryName": "United Parcel Service (UPS)",
-        "Icao": "UPS",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/UPS.png"
-    },
-    {
-        "LiveryId": "",
-        "LiveryName": "Pegasus",
-        "Icao": "PGT",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/PGT.png"
     }
 ]
