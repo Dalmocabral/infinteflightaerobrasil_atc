@@ -1806,6 +1806,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/EZY.png"
     },
     {
+        "LiveryId": "6d929f07-b853-4555-b584-9ff88bf809a3",
+        "LiveryName": "easyJet",
+        "Icao": "EZY",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EZY.png"
+    },
+    {
         "LiveryId": "8944b457-4636-4359-b72b-e9f9999a06e6",
         "LiveryName": "easyJet",
         "Icao": "EZY",
@@ -2642,8 +2648,8 @@
     {
         "LiveryId": "11c3bf04-2450-4993-a68f-847a39be5817",
         "LiveryName": "HOP!",
-        "Icao": "NO",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+        "Icao": "HOP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/HOP.png"
     },
     {
         "LiveryId": "5f3c7446-ab70-4c26-b4ad-291e2090d50a",
@@ -3195,7 +3201,7 @@
         "LiveryId": "b9a6c94f-a524-4239-a547-98bf7187f617",
         "LiveryName": "LATAM Airlines Group",
         "Icao": "LAN",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/LAN.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LCO.png"
     },
     {
         "LiveryId": "01c94477-768e-47db-8adc-fb4e0b2d3d52",
@@ -3513,7 +3519,7 @@
         "LiveryId": "3f82d3d0-8c36-4a22-99a0-d1e4cad7ae6d",
         "LiveryName": "Mokulele Airlines",
         "Icao": "MUL",
-        "Logo": "NOhttps://cdn.radarbox.com/airlines/sq/NO.png"
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
         "LiveryId": "85a55755-6316-4045-8477-f972c16acb0a",
@@ -5140,5 +5146,503 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "E175",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Aerom\u00e9xico Connect",
+        "Icao": "",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Air Canada Express",
+        "Icao": "ACA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ACA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Alaska Airlines",
+        "Icao": "ASA",
+        "Logo": "https://i.imgur.com/hElbZgJ.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Alitalia Cityliner",
+        "Icao": "CYL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CYL.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "American Eagle",
+        "Icao": "AAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AAL.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Belavia",
+        "Icao": "BRU",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/BRU.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Delta Connection",
+        "Icao": "DAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/DAL.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Embraer",
+        "Icao": "EMB",
+        "Logo": "https://i.imgur.com/pOIuzC3.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "FDA - Fuji Dream Airlines",
+        "Icao": "FDA",
+        "Logo": "https://i.imgur.com/lHRNAME.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Flybe",
+        "Icao": "BEE",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/BEE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Horizon Air",
+        "Icao": "QXE",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/QXE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "KLM Cityhopper",
+        "Icao": "KLC",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KLM.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "LOT - Polish Airlines",
+        "Icao": "LOT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LOT.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Mauritania Airlines",
+        "Icao": "MAI",
+        "Logo": "https://i.imgur.com/uz8kAEi.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Oman Air",
+        "Icao": "OMA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/OMA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Royal Jordanian",
+        "Icao": "RJA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/RJA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "TRIP Linhas A\u00e9reas",
+        "Icao": "TIB",
+        "Logo": "https://i.imgur.com/vuGiBrE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "United Express",
+        "Icao": "UAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UAL.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "E190",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Aero Rep\u00fablica",
+        "Icao": "RPB",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Aerolineas Argentinas",
+        "Icao": "ARG",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ARG.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Aerolitoral",
+        "Icao": "SLI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SLI.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Aerom\u00e9xico Connect",
+        "Icao": "SLI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Air Astana",
+        "Icao": "KZR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KZR.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Air Cara\u00efbes",
+        "Icao": "FWI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/FWI.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Air Moldova",
+        "Icao": "MLD",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/MLD.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Air Montenegro",
+        "Icao": "MNE",
+        "Logo": "https://i.imgur.com/G6OPS7L.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Airlink",
+        "Icao": "LNK",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LNK.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Airzena Georgian Airways",
+        "Icao": "TGZ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TGZ.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Alliance Airlines",
+        "Icao": "UTY",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UTY.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Amaszonas",
+        "Icao": "AZN",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AZN.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Amaszonas Uruguay",
+        "Icao": "AUZ",
+        "Logo": "https://i.imgur.com/58aKgaC.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Arkia - Israeli Airlines",
+        "Icao": "AIZ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AIZ.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Austral L\u00edneas A\u00e9reas",
+        "Icao": "AUT",
+        "Logo": "https://i.imgur.com/YZtKoxH.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Avianca El Salvador",
+        "Icao": "TAI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TAI.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "AZAL Azerbaijan Airlines",
+        "Icao": "AHY",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AHY.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "Icao": "AZU",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "BA CityFlyer",
+        "Icao": "CFE",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CFE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Bamboo Airways",
+        "Icao": "BAV",
+        "Logo": "https://i.imgur.com/CfoXmbf.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Breeze Airways",
+        "Icao": "MXY",
+        "Logo": "https://i.imgur.com/MkIhkIC.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "British Airways",
+        "Icao": "BAW",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/BAW.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Bulgaria Air",
+        "Icao": "LZB",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LZB.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Buta Airways",
+        "Icao": "AHY",
+        "Logo": "https://i.imgur.com/zu4Z6PR.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "China Southern Airlines",
+        "Icao": "CSN\t",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CSN.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Cobham Aviation",
+        "Icao": "NO",
+        "Logo": "https://i.imgur.com/ptJkv4d.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Colorful Guizhou Airlines",
+        "Icao": "CGZ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CGZ.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Conviasa",
+        "Icao": "VCV",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VCV.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Copa Airlines",
+        "Icao": "CMP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CMP.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Embraer",
+        "Icao": "EMB",
+        "Logo": "https://i.imgur.com/pOIuzC3.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Finnair",
+        "Icao": "FIN",
+        "Logo": "https://i.imgur.com/33fxref.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "flynas",
+        "Icao": "KNE",
+        "Logo": "https://i.imgur.com/0jhIFCE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "For\u00e7a A\u00e9rea Brasileira ",
+        "Icao": "BRS",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Frontier Airlines",
+        "Icao": "FFT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/FFT.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "German Airways",
+        "Icao": "GER",
+        "Logo": "https://i.imgur.com/oLhRlS9.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "GX Airlines",
+        "Icao": "CBG",
+        "Logo": "https://i.imgur.com/CaYpbQR.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Hebei Airlines",
+        "Icao": "HBH",
+        "Logo": "https://i.imgur.com/BvicCPf.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Helvetic Airways",
+        "Icao": "OAW",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/OAW.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "HOP!",
+        "Icao": "HOP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/HOP.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Hunnu Air",
+        "Icao": "MML",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/MML.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Ikar",
+        "Icao": "KAR",
+        "Logo": "https://i.imgur.com/UMahoQ5.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "J-Air",
+        "Icao": "JLJ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JAL.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "JetBlue Airways",
+        "Icao": "JBU",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Kenya Airways",
+        "Icao": "KQA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KQA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "KLM Cityhopper",
+        "Icao": "KLC",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/KLM.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "LAM - Linhas A\u00e9reas de Mo\u00e7ambique",
+        "Icao": "LAM",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LAM.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "LOT - Polish Airlines",
+        "Icao": "LOT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LOT.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Lufthansa",
+        "Icao": "DLH",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CLH.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Lufthansa CityLine",
+        "Icao": "CLH",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CLH.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Mandarin Airlines",
+        "Icao": "MDA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/MDA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Myanmar Airways International",
+        "Icao": "MMA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/MMA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Myanmar National Airlines",
+        "Icao": "UBA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UBA.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "QantasLink",
+        "Icao": "QLK",
+        "Logo": "https://i.imgur.com/O1HNvSB.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Royal Air Maroc",
+        "Icao": "RAM",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/RAM.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "TAME",
+        "Icao": "TAE",
+        "Logo": "https://i.imgur.com/nS2HiE6.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "TAP Express",
+        "Icao": "TAP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/TAP.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Tianjin Airlines",
+        "Icao": "GCR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/GCR.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "TRIP Linhas A\u00e9reas",
+        "Icao": "TIB",
+        "Logo": "https://i.imgur.com/vuGiBrE.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "TUI Airlines Belgium",
+        "Icao": "JAF",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JAF.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Ukraine International Airlines",
+        "Icao": "AUI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AUI.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "Virgin Australia",
+        "Icao": "VOZ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VOZ.png"
     }
 ]
