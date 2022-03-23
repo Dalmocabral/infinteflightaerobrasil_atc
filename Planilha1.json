@@ -1050,6 +1050,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AUA.png"
     },
     {
+        "LiveryId": "ed794d8c-5e86-474b-9872-98ae174570eb",
+        "LiveryName": "Avelo Air",
+        "Icao": "VXP",
+        "Logo": "https://i.imgur.com/dL6Doc2.png"
+    },
+    {
         "LiveryId": "d8935bb9-8b90-4f2f-9ffc-ac38747c0f5b",
         "LiveryName": "Avensa",
         "Icao": "AVE\t",
