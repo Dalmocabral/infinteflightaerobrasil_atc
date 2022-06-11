@@ -2652,6 +2652,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/IGO.png"
     },
     {
+        "LiveryId": "28fb4508-9eca-4120-abe4-3c4f06f6e71c",
+        "LiveryName": "Infinite Flight",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
         "LiveryId": "c969ebc6-3def-4fa2-9d1b-3efabdaca639",
         "LiveryName": "Infinite Flight",
         "Icao": "NO",
@@ -2848,6 +2854,12 @@
         "LiveryName": "Jet2",
         "Icao": "EXS",
         "Logo": "https://cdn.radarbox.com/airlines/sq/EXS.png"
+    },
+    {
+        "LiveryId": "8a660633-ef3f-4336-bedf-99878eeb678b",
+        "LiveryName": "JetBlue Airways",
+        "Icao": "JBU",
+        "Logo": "https://i.imgur.com/WJvFchV.png"
     },
     {
         "LiveryId": "124af2c6-427f-4d51-bbdf-6c3f1e19cf60",
@@ -3290,8 +3302,8 @@
     {
         "LiveryId": "2fc6c907-911a-43c2-b354-d89d416cb3d5",
         "LiveryName": "Lufthansa CityLine",
-        "Icao": "DLH",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/DLH.png"
+        "Icao": "CLH",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CLH.png"
     },
     {
         "LiveryId": "030113e9-c9b9-446f-9ac9-88d20f2487a8",
