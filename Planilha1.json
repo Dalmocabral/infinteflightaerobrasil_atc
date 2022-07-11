@@ -5146,5 +5146,29 @@
         "LiveryName": "ZH886",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "32becef6-0e00-4fdd-8e78-98996009ad53",
+        "LiveryName": "LATAM Airlines Group",
+        "Icao": "LAN",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LAN.png"
+    },
+    {
+        "LiveryId": "f7f98bea-72e4-4d2b-a353-d34509fc0a15",
+        "LiveryName": "Citilink",
+        "Icao": "CTV",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CTV.png"
+    },
+    {
+        "LiveryId": "d2081c69-4484-414f-b4b2-f0cf9b9cea81",
+        "LiveryName": "Aeromexico",
+        "Icao": "AMX",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
+    },
+    {
+        "LiveryId": "fc630204-2fcb-44b3-b2f1-35d46b4b0342",
+        "LiveryName": "Vistara",
+        "Icao": "VTI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VTI.png"
     }
 ]
