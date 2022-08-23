@@ -5160,55 +5160,43 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/CTV.png"
     },
     {
-        "LiveryId": "d2081c69-4484-414f-b4b2-f0cf9b9cea81",
+        "LiveryId": "1942d181-ec99-42c5-8088-878488375990",
         "LiveryName": "Aeromexico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
-        "LiveryId": "fc630204-2fcb-44b3-b2f1-35d46b4b0342",
+        "LiveryId": "54d5dc1d-0ea4-438d-8e10-266d8ba6112f",
         "LiveryName": "Vistara",
         "Icao": "VTI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/VTI.png"
     },
     {
-        "LiveryId": "230ec095-5e36-4637-ba2f-68831b31e891",
+        "LiveryId": "88e0405f-cb3b-461a-98ed-43217e3b3341",
         "LiveryName": "Fiji Airways",
         "Icao": "FJI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/FJI.png"
-    },
+    },    
     {
-        "LiveryId": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
-        "LiveryName": "Aeromexico",
-        "Icao": "AMX",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
-    },
-    {
-        "LiveryId": "6af2c9f8-abd8-4872-a9bc-4e79fd84fe77",
+        "LiveryId": "85cc6e33-5e99-4bfe-8c80-a55cb5e70b3d",
         "LiveryName": "Finnair",
         "Icao": "FIN",
         "Logo": "https://i.imgur.com/33fxref.png"
-    },
-     {
-        "LiveryId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
-        "LiveryName": "Vistara",
-        "Icao": "VTI",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/VTI.png"
-    },
+    },    
     {
-        "LiveryId": "6af2c9f8-abd8-4872-a9bc-4e79fd84fe77",
+        "LiveryId": "88cf7de1-a383-4491-9829-896ce8cde38d",
         "LiveryName": "Saudia",
         "Icao": "SVA",
         "Logo": "https://cdn.radarbox.com/airlines/sq/SVA.png"
     },
     {
-        "LiveryId": "2c2f162e-a7d9-4ebd-baf4-859aed36165a",
+        "LiveryId": "68276689-d7a8-4fa5-bc4d-afb8d9a29d50",
         "LiveryName": "Drukair",
         "Icao": "",
         "Logo": ""
     },
     {
-        "LiveryId": "0a3edb21-d515-4619-8392-aef51b952ac9",
+        "LiveryId": "47445efa-42da-4779-b01e-7608628d5ba3",
         "LiveryName": "Blue Angels 1",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
