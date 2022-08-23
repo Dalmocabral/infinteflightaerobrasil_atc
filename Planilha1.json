@@ -5170,5 +5170,47 @@
         "LiveryName": "Vistara",
         "Icao": "VTI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/VTI.png"
-    }
+    },
+    {
+        "LiveryId": "230ec095-5e36-4637-ba2f-68831b31e891",
+        "LiveryName": "Fiji Airways",
+        "Icao": "FJI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/FJI.png"
+    },
+    {
+        "LiveryId": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
+        "LiveryName": "Aeromexico",
+        "Icao": "AMX",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
+    },
+    {
+        "LiveryId": "6af2c9f8-abd8-4872-a9bc-4e79fd84fe77",
+        "LiveryName": "Finnair",
+        "Icao": "FIN",
+        "Logo": "https://i.imgur.com/33fxref.png"
+    },
+     {
+        "LiveryId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
+        "LiveryName": "Vistara",
+        "Icao": "VTI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VTI.png"
+    },
+    {
+        "LiveryId": "6af2c9f8-abd8-4872-a9bc-4e79fd84fe77",
+        "LiveryName": "Saudia",
+        "Icao": "SVA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SVA.png"
+    },
+    {
+        "LiveryId": "2c2f162e-a7d9-4ebd-baf4-859aed36165a",
+        "LiveryName": "Drukair",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "0a3edb21-d515-4619-8392-aef51b952ac9",
+        "LiveryName": "Blue Angels 1",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
 ]
