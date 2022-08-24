@@ -5212,5 +5212,11 @@
         "LiveryName": "Fiji Airways",
         "Icao": "FJI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/FJI.png"
+    },
+    {
+        "LiveryId": "47445efa-42da-4779-b01e-7608628d5ba3",
+        "LiveryName": "Blue Angels 1",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     }
 ]
