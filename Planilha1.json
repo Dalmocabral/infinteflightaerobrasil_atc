@@ -5392,11 +5392,5 @@
         "LiveryName": "Generic",
         "Icao": "",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
-    },
-    {
-        "LiveryId": "490646cd-ae2b-4771-8086-507785d0f640",
-        "LiveryName": "Air Canada",
-        "Icao": "",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
-    }
+    },    
 ]
