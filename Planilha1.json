@@ -498,6 +498,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/AFR.png"
     },
     {
+        "LiveryId": "ae39a8c3-e027-41b6-ad43-264a81baaea3",
+        "LiveryName": "Air France",
+        "Icao": "AFR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AFR.png"
+    },
+    {
         "LiveryId": "9c0ce19f-00b0-44ea-938d-8c70e4c48c7c",
         "LiveryName": "Air France",
         "Icao": "AFR",
