@@ -414,6 +414,12 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
     },
     {
+        "LiveryId": "4ed9d53e-a879-4433-abc2-dd3ed5466617",
+        "LiveryName": "Air China",
+        "Icao": "CCA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
+    },
+    {
         "LiveryId": "8874908d-e03a-4f39-aedd-2792103dd1f7",
         "LiveryName": "Air China",
         "Icao": "CCA",
