@@ -1,13 +1,13 @@
 [
     {
         "LiveryId": "3fa84232-6e91-49a5-a2ee-47fa5cdc9497",
-        "LiveryName": 96572.0,
+        "LiveryName": 96572,
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
         "LiveryId": "72f18800-97b8-4152-b0da-6af614cccd72",
-        "LiveryName": 164763.0,
+        "LiveryName": 164763,
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
@@ -175,43 +175,43 @@
     },
     {
         "LiveryId": "48171663-d72d-4b70-b6c7-2a74a03394a4",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "5dca5ae5-7ba2-48f4-adee-f6450b7e38fb",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "9614600e-be34-4340-b3ad-31c7c89b955e",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "e920e3ae-59a7-41d3-ad83-cbe53267efce",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "d2081c69-4484-414f-b4b2-f0cf9b9cea81",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "1942d181-ec99-42c5-8088-878488375990",
-        "LiveryName": "Aerom\u00e9xico",
+        "LiveryName": "Aeroméxico",
         "Icao": "AMX",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
     {
         "LiveryId": "3a50cc45-e794-4183-a14e-35ef52f51d73",
-        "LiveryName": "Aerom\u00e9xico Connect",
+        "LiveryName": "Aeroméxico Connect",
         "Icao": "SLI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AMX.png"
     },
@@ -397,13 +397,13 @@
     },
     {
         "LiveryId": "4064efa8-f4ac-4a74-a95b-824f3d1ca21c",
-        "LiveryName": "Air Cara\u00efbes",
+        "LiveryName": "Air Caraïbes",
         "Icao": "FWI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/FWI.png"
     },
     {
         "LiveryId": "468774db-7484-4c20-bfc4-b30e28073ac3",
-        "LiveryName": "Air Cara\u00efbes",
+        "LiveryName": "Air Caraïbes",
         "Icao": "FWI",
         "Logo": "https://cdn.radarbox.com/airlines/sq/FWI.png"
     },
@@ -1135,7 +1135,7 @@
     },
     {
         "LiveryId": "ea6d5be6-3c72-489e-800d-ca42bb873ace",
-        "LiveryName": "Austral L\u00edneas A\u00e9reas",
+        "LiveryName": "Austral Líneas Aéreas",
         "Icao": "AUT",
         "Logo": "https://i.imgur.com/YZtKoxH.png"
     },
@@ -1161,7 +1161,7 @@
         "LiveryId": "ed794d8c-5e86-474b-9872-98ae174570eb",
         "LiveryName": "Avelo Air",
         "Icao": "VXP",
-        "Logo": "https://i.imgur.com/dL6Doc2.png"
+        "Logo": "https://i.imgur.com/qNE8Mpq.png"
     },
     {
         "LiveryId": "d8935bb9-8b90-4f2f-9ffc-ac38747c0f5b",
@@ -1213,37 +1213,37 @@
     },
     {
         "LiveryId": "29947d52-a32a-4675-b04d-878fa2ac5476",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
     },
     {
         "LiveryId": "503c0860-3784-4fde-aedc-6abb8352c967",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
     },
     {
         "LiveryId": "8944ff81-f687-4d33-8717-b7252d2ab280",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
     },
     {
         "LiveryId": "2599748b-8045-4ab4-b00f-4ee663519e59",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://i.imgur.com/mytyAzW.png"
     },
     {
         "LiveryId": "dcf08a0b-72d0-4eff-aa8a-00ebf2ba16b5",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
     },
     {
         "LiveryId": "f1122b9b-f4a8-4543-b83f-7d7faef56a3c",
-        "LiveryName": "Azul Linhas A\u00e9reas Brasileiras",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
         "Icao": "AZU",
         "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
     },
@@ -1575,13 +1575,13 @@
         "LiveryId": "a5193e82-046d-42bc-835d-06cdac3e1425",
         "LiveryName": "Cebu Pacific",
         "Icao": "CEB",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/CEB.png"
+        "Logo": "https://i.imgur.com/1za8zEr.png"
     },
     {
         "LiveryId": "a705c138-2ddd-4cf2-8f67-6c7f742eb09c",
         "LiveryName": "Cebu Pacific",
         "Icao": "CEB",
-        "Logo": "https://cdn.radarbox.com/airlines/sq/CEB.png"
+        "Logo": "https://i.imgur.com/1za8zEr.png"
     },
     {
         "LiveryId": "daa23150-ef25-427e-8d76-6e8fa008c873",
@@ -2767,19 +2767,19 @@
     },
     {
         "LiveryId": "34488fc3-07f5-495e-89eb-97702b3ace7a",
-        "LiveryName": "GOL Transportes A\u00e9reos",
+        "LiveryName": "GOL Transportes Aéreos",
         "Icao": "GLO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/GOL.png"
     },
     {
         "LiveryId": "643f687b-9553-4dd1-a98b-7932b6ec0529",
-        "LiveryName": "GOL Transportes A\u00e9reos",
+        "LiveryName": "GOL Transportes Aéreos",
         "Icao": "GLO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/GOL.png"
     },
     {
         "LiveryId": "6cd046f4-ca62-4450-8b51-6cb68dc2f5a0",
-        "LiveryName": "GOL Transportes A\u00e9reos",
+        "LiveryName": "GOL Transportes Aéreos",
         "Icao": "GLO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/GOL.png"
     },
@@ -3079,7 +3079,7 @@
     },
     {
         "LiveryId": "9b8737c3-ee29-43ad-8fa4-7c2fed73ebc6",
-        "LiveryName": "ITA Transportes A\u00e9reos",
+        "LiveryName": "ITA Transportes Aéreos",
         "Icao": "IPM",
         "Logo": "https://i.imgur.com/mlN6Vmd.png"
     },
@@ -3709,7 +3709,7 @@
     },
     {
         "LiveryId": "698f5afc-e046-4ca5-af19-9c05f3eeb834",
-        "LiveryName": "Mal\u00e9v Hungarian Airlines",
+        "LiveryName": "Malév Hungarian Airlines",
         "Icao": "MAH",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
@@ -5041,7 +5041,7 @@
     },
     {
         "LiveryId": "fccd0805-0c4d-4449-978d-78e776fca6a5",
-        "LiveryName": "TRIP Linhas A\u00e9reas",
+        "LiveryName": "TRIP Linhas Aéreas",
         "Icao": "TIB",
         "Logo": "https://i.imgur.com/vuGiBrE.png"
     },
@@ -5656,5 +5656,347 @@
         "LiveryName": "Zan Air",
         "Icao": "NO",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "a69097cf-ccc5-428c-8b7c-4f0e06dc05e7",
+        "LiveryName": "China Eastern Airlines",
+        "Icao": "CES",
+        "Logo": "https://i.imgur.com/i93Tf8v.png"
+    },
+    {
+        "LiveryId": "fffe0edb-0b43-4270-a1e1-473832ee874c",
+        "LiveryName": "Condor",
+        "Icao": "CFG",
+        "Logo": "https://i.imgur.com/T9XVywg.png"
+    },
+    {
+        "LiveryId": "909e184e-bf0d-427f-897b-83c0a26b53ea",
+        "LiveryName": "Air China",
+        "Icao": "CCA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
+    },
+    {
+        "LiveryId": "762e9d72-94e7-4a16-8c1f-85dcf562598d",
+        "LiveryName": "Azul Linhas Aéreas Brasileiras",
+        "Icao": "AZU",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AZU.png"
+    },
+    {
+        "LiveryId": "e9107e81-6473-4b92-8a8d-b95b5aa782fb",
+        "LiveryName": "GOL Transportes Aéreos",
+        "Icao": "GLO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/GLO.png"
+    },
+    {
+        "LiveryId": "828005e2-b79c-4d37-81fc-6946163af125",
+        "LiveryName": "Anadolu Jet",
+        "Icao": "THY",
+        "Logo": "https://i.imgur.com/9cVPxco.png"
+    },
+    {
+        "LiveryId": "7a112d36-19e8-485d-bf77-2ddd49afd471",
+        "LiveryName": "Jet2",
+        "Icao": "EXS",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EXS.png"
+    },
+    {
+        "LiveryId": "535db3b3-1659-4533-9ca4-45a7778cecbc",
+        "LiveryName": "Vueling",
+        "Icao": "VLG",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VLG.png"
+    },
+    {
+        "LiveryId": "c3dc3e33-5220-4c9d-ae49-b74361aeedc3",
+        "LiveryName": "Swoop",
+        "Icao": "WSW",
+        "Logo": "https://i.imgur.com/1XVeu6w.png"
+    },
+    {
+        "LiveryId": "18461c70-e315-4d1c-8122-33d45c89c3db",
+        "LiveryName": "Trans Island Airways",
+        "Icao": "GGT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "bdd9ceed-8907-45e5-aede-787d03a351b7",
+        "LiveryName": "ITA Airways",
+        "Icao": "ITY",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/ITY.png"
+    },
+    {
+        "LiveryId": "ec41fa8c-6b85-424a-9adc-bd3af678d652",
+        "LiveryName": "Japan Airlines",
+        "Icao": "JAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JAL.png"
+    },
+    {
+        "LiveryId": "5b82758d-2893-44de-afc7-817aa580ecf6",
+        "LiveryName": "AirShare",
+        "Icao": "XSR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/XSR.png"
+    },
+    {
+        "LiveryId": "48fd3949-21c5-4084-9700-4cb732c041ff",
+        "LiveryName": "Havan",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "Challenger 350",
+        "LiveryName": "Bombardier",
+        "Icao": "BOM",
+        "Logo": "https://i.imgur.com/3hIAD3f.png"
+    },
+    {
+        "LiveryId": "c0af9dbd-5b75-4da9-a3fb-4766427c342e",
+        "LiveryName": "Catreus Aviation",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "36e30d1b-c44e-4963-81d5-4e87053f68c4",
+        "LiveryName": "Clay Lacy Aviation",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "22b85e80-3a5d-4ce4-8ae6-882346fd484b",
+        "LiveryName": "European Flight Service",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "19da5b49-4a06-4e19-ac73-6304a0c50c5b",
+        "LiveryName": "ExecuJet\t",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "87c04401-4197-46fd-bee6-f4715a8d91c9",
+        "LiveryName": "Flexjet",
+        "Icao": "LXJ",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LXJ.png"
+    },
+    {
+        "LiveryId": "9e5c6f48-5fb5-4fc2-8a62-efef3eb58438",
+        "LiveryName": "Generic",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "6512dc9c-ffdc-40d0-ac50-5008316ba780",
+        "LiveryName": "HB-CRW",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "3b9057c0-d324-43fe-9b1a-8ff31df869c1",
+        "LiveryName": "Hyperion Aviation",
+        "Icao": "HYP",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "82c193fc-98b6-4152-89d9-e7d172d7c3e0",
+        "LiveryName": "Infinite Flight",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "adf6e86e-b7bc-4736-93f9-8765193ab200",
+        "LiveryName": "Jet Mach",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "a94ac8fb-9d56-449f-97fa-9956ea3b0681",
+        "LiveryName": "JM Aviation",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "8c374e42-2f06-4a0d-aa1d-d9fcf325fad5",
+        "LiveryName": "Luxaviation Belgium",
+        "Icao": "AAB",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "5e56fb7c-f6fa-48fd-a961-081e18e7bca8",
+        "LiveryName": "NetJets Aviation",
+        "Icao": "EJA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/EJA.png"
+    },
+    {
+        "LiveryId": "bebb8015-8ccf-4e55-a4c7-0d93bbf564ec",
+        "LiveryName": "NetJets Europe",
+        "Icao": "NJE",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NJE.png"
+    },
+    {
+        "LiveryId": "31440e19-9459-446d-afc4-5062622beaf9",
+        "LiveryName": "Sundt Air",
+        "Icao": "NO",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "58c10e5-2430-4d5c-8361-a400d2c18933",
+        "LiveryName": "Sunwest Aviation",
+        "Icao": "CNK",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
+    },
+    {
+        "LiveryId": "16cecc4f-1a33-4664-b940-19047d598f92",
+        "LiveryName": "VistaJet",
+        "Icao": "VJT",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VJT.png"
+    },
+    {
+        "LiveryId": "",
+        "LiveryName": "",
+        "Icao": "",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "A320-200",
+        "LiveryName": "Jazeera Airways",
+        "Icao": "JZR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/JZR.png"
+    },
+    {
+        "LiveryId": "A320-200",
+        "LiveryName": "Super Air Jet",
+        "Icao": "SJV",
+        "Logo": ""
+    },
+    {
+        "LiveryId": "A320-200 Lauda-Europe",
+        "LiveryName": "LaudaMotion",
+        "Icao": "LDM",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/LDM.png"
+    },
+    {
+        "LiveryId": "A330-300",
+        "LiveryName": "China Eastern Airliens",
+        "Icao": "CES",
+        "Logo": "https://i.imgur.com/i93Tf8v.png"
+    },
+    {
+        "LiveryId": "A330-300",
+        "LiveryName": "Eurowings Discover",
+        "Icao": "OCN",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/OCN.png"
+    },
+    {
+        "LiveryId": "A330-300",
+        "LiveryName": "Fiji Airways",
+        "Icao": "FJI",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/FJI.png"
+    },
+    {
+        "LiveryId": "A330-300",
+        "LiveryName": "Garuda Indonesia",
+        "Icao": "GIA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/GIA.png"
+    },
+    {
+        "LiveryId": "A330-900neo",
+        "LiveryName": "Condor",
+        "Icao": "CFG",
+        "Logo": "https://i.imgur.com/D3PxdPo.png"
+    },
+    {
+        "LiveryId": "A330-900neo",
+        "LiveryName": "Virgin Atlantic Airways",
+        "Icao": "VIR",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/VIR.png"
+    },
+    {
+        "LiveryId": "B737-800",
+        "LiveryName": "Xiamen Airlines",
+        "Icao": "CXA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CXA.png"
+    },
+    {
+        "LiveryId": "B737-800 China Southern",
+        "LiveryName": "China Southern Airlines",
+        "Icao": "CSN",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CSN.png"
+    },
+    {
+        "LiveryId": "B737-800",
+        "LiveryName": "Air Europa",
+        "Icao": "AEA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/AEA.png"
+    },
+    {
+        "LiveryId": "B737-800",
+        "LiveryName": "Air China",
+        "Icao": "CCA",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CCA.png"
+    },
+    {
+        "LiveryId": "B737-800",
+        "LiveryName": "SunExpress",
+        "Icao": "SXS",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/SXS.png"
+    },
+    {
+        "LiveryId": "B777-200ER",
+        "LiveryName": "United Airlines",
+        "Icao": "UAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UAL.png"
+    },
+    {
+        "LiveryId": "B777-300ER",
+        "LiveryName": "China Eastern Airlines",
+        "Icao": "CES",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CES.png"
+    },
+    {
+        "LiveryId": "B777-300ER",
+        "LiveryName": "China Southern Airlines",
+        "Icao": "CSN",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CSN.png"
+    },
+    {
+        "LiveryId": "B787-9",
+        "LiveryName": "Hainan Airlines",
+        "Icao": "CHH",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/CHH.png"
+    },
+    {
+        "LiveryId": "B787-9",
+        "LiveryName": "Norse Atlantic Airways",
+        "Icao": "NBT",
+        "Logo": "https://i.imgur.com/PZmKv2L.png"
+    },
+    {
+        "LiveryId": "B787-9",
+        "LiveryName": "United Airlines",
+        "Icao": "UAL",
+        "Logo": "https://cdn.radarbox.com/airlines/sq/UAL.png"
+    },
+    {
+        "LiveryId": "BCS3",
+        "LiveryName": "Air Baltic",
+        "Icao": "BTI",
+        "Logo": "https://i.imgur.com/B9TKPLV.png"
+    },
+    {
+        "LiveryId": "BCS3",
+        "LiveryName": "Air Baltic",
+        "Icao": "BTI",
+        "Logo": "https://i.imgur.com/5AzJNhS.png"
     }
 ]
