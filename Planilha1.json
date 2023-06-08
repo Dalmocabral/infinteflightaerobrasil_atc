@@ -5658,18 +5658,6 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
-        "LiveryId": "",
-        "LiveryName": "",
-        "Icao": "",
-        "Logo": ""
-    },
-    {
-        "LiveryId": "",
-        "LiveryName": "",
-        "Icao": "",
-        "Logo": ""
-    },
-    {
         "LiveryId": "a69097cf-ccc5-428c-8b7c-4f0e06dc05e7",
         "LiveryName": "China Eastern Airlines",
         "Icao": "CES",
@@ -5850,7 +5838,7 @@
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
     },
     {
-        "LiveryId": "58c10e5-2430-4d5c-8361-a400d2c18933",
+        "LiveryId": "658c10e5-2430-4d5c-8361-a400d2c18933",
         "LiveryName": "Sunwest Aviation",
         "Icao": "CNK",
         "Logo": "https://cdn.radarbox.com/airlines/sq/NO.png"
